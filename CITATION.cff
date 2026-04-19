@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research or model, please cite it as below."
+authors:
+- family-names: "Oh"
+  given-names: "Dong Hoon"
+  orcid: "https://orcid.org/0009-0001-2200-2176"
+title: "A Discrete Quantum Gravity Model: Vortical Phase Transition of Light and Vacuum-Anchored Gravitational Coupling"
+version: 1.0.0
+doi: 10.5281/zenodo.19652476
+date-released: 2026-04-19
+url: "https://github.com/startripleai/vortical-quantum-gravity/"
+license: CC-BY-4.0
