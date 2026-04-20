@@ -8,8 +8,8 @@
 
 
 ## Publications
-1. **[A Discrete Quantum Gravity Model](https://doi.org)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
-2. **[The Vortical Radius](https://doi.org.[새_DOI])**: Resolution of singularities and the 50% suppression of $r_s$.
+1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.19652476))**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
+2. **[The Vortical Radius](https://doi.org/10.5281/zenodo.19664079)**: Resolution of singularities and the 50% suppression of $r_s$.
 
 # vortical-quantum-gravity
 A renormalization-free discrete quantum gravity model based on the vortical phase transition of light and variable coupling constants.
