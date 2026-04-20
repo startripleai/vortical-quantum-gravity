@@ -1,8 +1,9 @@
 # Vortical Quantum Gravity Research Series
 
-[![DOI (Paper 1: Foundations)](https://zenodo.org/badge/DOI/10.5281/zenodo.19652476.svg)](https://doi.org/10.5281/zenodo.19652476)
-
-[![DOI (Paper 2: Black Hole Radius)](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079)
+| Paper | Title | Badge |
+| :--- | :--- | :--- |
+| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19652476.svg)](https://doi.org/10.5281/zenodo.19652476) |
+| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
 
 ## Publications
 1. **[A Discrete Quantum Gravity Model](https://doi.org)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
