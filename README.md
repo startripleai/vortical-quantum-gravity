@@ -1,6 +1,7 @@
 # Vortical Quantum Gravity Research Series
 
 [![DOI (Paper 1: Foundations)](https://zenodo.org/badge/DOI/10.5281/zenodo.19652476.svg)](https://doi.org/10.5281/zenodo.19652476)
+
 [![DOI (Paper 2: Black Hole Radius)](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079)
 
 ## Publications
