@@ -1,12 +1,21 @@
 cff-version: 1.2.0
-message: "If you use this research or model, please cite it as below."
+message: "If you use this research or the Vortical Gravity model, please cite the following papers."
 authors:
-- family-names: "Oh"
-  given-names: "Dong Hoon"
-  orcid: "https://orcid.org/0009-0001-2200-2176"
-title: "A Discrete Quantum Gravity Model: Vortical Phase Transition of Light and Vacuum-Anchored Gravitational Coupling"
-version: 1.0.0
-doi: 10.5281/zenodo.19652476
-date-released: 2026-04-19
+  - family-names: "Oh"
+    given-names: "Dong Hoon"
+    orcid: "https://orcid.org/0009-0001-2200-2176"
+title: "Vortical Quantum Gravity Research Series"
+version: "Absolute_Edition"
+date-released: 2026-04-21
 url: "https://github.com/startripleai/vortical-quantum-gravity/"
 license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19652476
+    description: "Paper 1: Foundations of Vortical Gravity"
+  - type: doi
+    value: 10.5281/zenodo.19664079
+    description: "Paper 2: The Vortical Radius (Black Holes)"
+  - type: doi
+    value: 10.5281/zenodo.19682553
+    description: "Paper 3: The Volumetric Vortex (Mechanics)"
