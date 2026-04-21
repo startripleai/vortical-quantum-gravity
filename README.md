@@ -9,7 +9,7 @@
 
 
 ## Publications
-1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.19652476))**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
+1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.19652476)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
 2. **[The Vortical Radius](https://doi.org/10.5281/zenodo.19664079)**: Resolution of singularities and the 50% suppression of $r_s$.
 3. **[The Volumetric Vortex](https://doi.org/10.5281/zenodo.19682553)**: Replacement of the 2D Holographic Principle with a 3D Volumetric Vortex Shell.
 
