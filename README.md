@@ -40,6 +40,7 @@ The simulation engine resolves the "Dark Sector" by treating $G$ as a dynamic ef
 - **M33 (The Vacuum Limit):** At a density of $\sim 10^{-24}$, the lattice reaches its unsuppressed vacuum potential ($G_{max} \approx 5.46 G_0$).
 - **MW/M31 (Partial Recovery):** The higher local densities at 25–30 kpc keep the lattice partially damped, yielding precise matches for observational rotation velocities without invoking non-baryonic dark matter halos.
 
+![Vortical Results](vortical_results.png)
 
 ## Citation
 If you use this research, please cite it as:
