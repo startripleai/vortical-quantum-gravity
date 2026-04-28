@@ -6,7 +6,7 @@
 | **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19652476.svg)](https://doi.org/10.5281/zenodo.19652476) |
 | **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
 | **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19682553.svg)](https://doi.org/10.5281/zenodo.19682553) |
-| **Paper 4** | The Emergent Dark Sector] | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19786931.svg)](https://doi.org/10.5281/zenodo.19786931) |
+| **Paper 4** | The Emergent Dark Sector | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19786931.svg)](https://doi.org/10.5281/zenodo.19786931) |
 
 
 ## Publications
