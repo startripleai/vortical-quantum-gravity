@@ -51,7 +51,9 @@ If you use this research, please cite it as:
 
 > Oh, D. H. (2026c). *The Volumetric Vortex: 3D Probabilistic Superposition and the Emergence of Light from Spacetime Flux*. Zenodo. DOI: 10.5281/zenodo.19682553
 
-> Oh, D. H. (2026d). *The Emergent Dark Sector: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem*. Zenodo. DOI: 10.5281/zenodo.19786931
+> Oh, D. H. (2026d). *The Emergent Dark Sector: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem(v.1.0.1)*. Zenodo. DOI: 10.5281/zenodo.19786931
+
+> Oh, D. H. (2026). *The Emergent Dark Sector: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem (v1.0.2)*. Zenodo. https://doi.org/10.5281/zenodo.19859532
 
 ## Intellectual Property & Licensing
 
