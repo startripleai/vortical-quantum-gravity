@@ -6,12 +6,14 @@
 | **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19652476.svg)](https://doi.org/10.5281/zenodo.19652476) |
 | **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
 | **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19682553.svg)](https://doi.org/10.5281/zenodo.19682553) |
+| **Paper 4** | The Emergent Dark Sector] | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19786931.svg)](https://doi.org/10.5281/zenodo.19786931) |
 
 
 ## Publications
 1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.19652476)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
 2. **[The Vortical Radius](https://doi.org/10.5281/zenodo.19664079)**: Resolution of singularities and the 50% suppression of $r_s$.
 3. **[The Volumetric Vortex](https://doi.org/10.5281/zenodo.19682553)**: Replacement of the 2D Holographic Principle with a 3D Volumetric Vortex Shell.
+4. **[The Emergent Dark Sector](https://doi.org/10.5281/zenodo.19786931)**: Resolution of the Emergent Dark Sector the 10^122].
 
 # vortical-quantum-gravity
 A renormalization-free discrete quantum gravity model based on the vortical phase transition of light and variable coupling constants.
@@ -32,6 +34,7 @@ If you use this research, please cite it as:
 
 > Oh, D. H. (2026c). *The Volumetric Vortex: 3D Probabilistic Superposition and the Emergence of Light from Spacetime Flux*. Zenodo. DOI: 10.5281/zenodo.19682553
 
+> Oh, D. H. (2026d). *The Emergent Dark Sector: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem*. Zenodo. DOI: 10.5281/zenodo.19786931
 
 ## Intellectual Property & Licensing
 
