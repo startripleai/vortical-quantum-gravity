@@ -30,9 +30,11 @@ In this model, **Gravity is the hardware potential, and Curvature is the softwar
 
 The Vortical Model provides a single mechanical explanation for Mass, Gravity, and the resolution of Singularities through the partitioning of $E_{total}$ (Total Kinetic Energy Density).
 
-### A. The Origin of Mass: Trapped Light
-In our framework, **Baryonic Mass** is not a fundamental "particle" but a phase transition of energy. When EM-flux cannot maintain linear progression due to local lattice stress, it is forced into a **closed vortical loop at the Planck scale.** 
-- **The Result:** Light becomes "trapped" in a tiny radius ($r_v$), creating the localized damping of lattice stiffness that we perceive as a gravitational field ($G_0$).
+### A. The Origin of Mass: Lattice-Induced Photon Trapping
+While standard physics posits that photons do not interact with each other in a linear vacuum, the **Vortical Model** identifies mass as a result of **Lattice-Photon Interaction**.
+- **Mechanism:** When energy density reaches the Planck threshold, the discrete spacetime lattice undergoes "Congestion" ($X \to 1$).
+- **The Phase Transition:** The lattice stiffness ($\eta$) forces the linear EM-flux into a **self-closing vortical loop**. This is not a photon-photon collision, but a topological redirection caused by the non-linear response of the spacetime fabric itself.
+- **Identity:** Baryonic mass is the measurable inertia of this "trapped light." The equivalence $E=mc^2$ thus represents the transition of flux from a linear temporal state to a localized, rotating spatial state.
 
 ### B. The Finite Partition ($P_t^2 + P_{\theta}^2 = 1$)
 The total kinetic energy available at a lattice node ($E_{total}$) is finite and governed by the **Probability Invariance Identity**. Gravity is simply the redirection of the lattice's intrinsic **Stiffness ($\eta$)** into rotation. 
