@@ -100,4 +100,4 @@ Figure 1: The Evolutionary Cycle of Vortical Gravity.
 (2) Accumulation of these nodes leads to macroscopic lattice damping ($G_0$). 
 (3) Extreme rotation at the collapse limit creates a central 'Vortical Void,' resolving the mathematical singularity inherent in General Relativity.
 
-See ![Figure 1 Vortical_Mass_Concept.png,](Figure1_vortical_mass_concept.png)
+ ![Figure 1 Vortical_Mass_Concept.png,](Figure1_vortical_mass_concept.png)
