@@ -47,6 +47,34 @@ General Relativity predicts an "infinite density" singularity at the center of a
 2. **The Center (The Vortical Void):** Because $E_{total}$ is finite and must satisfy the partition, the intense rotation at the horizon creates a "centrifugal" void at the geometric center. 
 3. **The Conclusion:** Instead of a singularity, the center of a black hole is a **Zero-Density Vacuum**. Mass is concentrated in the high-energy vortical shell, while the center represents a state of pure lattice restitution.
 
+## 7. The Distinction Between Particle and Mass
+
+In the **Vortical Model**, a "Particle" and its "Mass" are not the same thing; they represent the **Structure** and the **Effect** within the lattice.
+
+### A. The Particle: Energy Trapped in Geometry (The Structure)
+A particle is not a solid "thing" but a **localized geometric state** of the lattice.
+- **Definition:** It is the physical manifestation of EM-flux (light) that has transitioned from linear progression to a **closed-loop vortex** at the Planck scale.
+- **Mechanism:** The particle is the vortex itself ($P_{\theta} \to 1$), a stable "knot" in the spacetime tensor network.
+
+### B. Mass: Lattice Damping and Resistance (The Effect)
+Mass is the **measurable workload** or resistance that the particle (vortex) imposes on the surrounding lattice.
+- **Definition:** It is the degree to which the vortical rotation consumes the lattice's motion probability, thereby reducing the local **Temporal Flux ($P_t$)**.
+- **Inertial Mass:** The resistance offered by the lattice when attempting to translate a stable vortex across the network.
+- **Gravitational Mass:** The extent to which the vortex "clogs" or damps the local cosmic stiffness ($\eta$), leading to the observed suppression of $G$.
+
+### 💡 Conceptual Comparison
+
+
+| Category | **The Particle (Structure)** | **The Mass (Effect)** |
+| :--- | :--- | :--- |
+| **Physical Identity** | A localized **Vortex** of energy. | The resulting **Damping** of the lattice. |
+| **Probability State** | Localized concentration of $P_{\theta}$. | Localized reduction of $P_t$. |
+| **Analogy** | A **whirlpool** in a river. | The **drag/resistance** the whirlpool creates. |
+| **Result** | Emergence of Matter. | Emergence of a Gravitational Field ($G_0$). |
+
+---
+**Conclusion:** Mass is the "geometric cost" of maintaining a particle's structure within a discrete manifold. $E=mc^2$ is the conversion rate between the energy in its free linear state ($E$) and its trapped, lattice-damping state ($m$).
+
 ### 💡 Summary for Reviewers
 
 | Phenomenon | Lattice Energy State | Physical Outcome |
