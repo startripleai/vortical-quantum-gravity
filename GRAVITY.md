@@ -82,3 +82,16 @@ Mass is the **measurable workload** or resistance that the particle (vortex) imp
 | **Pure Vacuum** | 100% Linear Flux | Maximum $G$ Recovery ($5.46 G_0$) |
 | **Standard Mass** | Planckian Vortices | Lattice Damping ($G \to G_0$) |
 | **Black Hole** | Maximum Vortical Partition | **Vortical Void** (No Singularity) |
+
+### 🌌 3-Stage Evolution of the Vortical Model
+
+1. **Panel 1: Re-defining the Quantum Trap**
+    - **"Photon Trapping"**: Clarifies that mass originates when linear light waves become a **Self-Closed Standing Wave Vortex** at a **Lattice Stress Point**.
+    - **"Lattice Field"**: Explicitly labels the discrete spacetime structure as the substrate for mass genesis.
+2. **Panel 2: Enhanced Stellar Accretion Flow**
+    - **"Stellar Accretion"**: Uses standard astronomical terminology while highlighting your unique **"Vortex Clustering Feedback"** and the **"Reinforced Gravitational Field (G0)"**.
+    - **"Vortical Depression"**: Visualizes how mass accumulation dampens the lattice stiffness.
+3. **Panel 3: The Complete Vortical Black Hole**
+    - **"The Vortical Void"**: Clearly marks the resolution of the **Singularity Paradox** by showing a zero-density vacuum center rather than a mathematical point.
+    - **"Extreme Curvature Funnel"**: Represents the maximum damping of temporal flux at the event horizon.
+
