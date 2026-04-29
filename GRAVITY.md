@@ -83,7 +83,7 @@ Mass is the **measurable workload** or resistance that the particle (vortex) imp
 | **Standard Mass** | Planckian Vortices | Lattice Damping ($G \to G_0$) |
 | **Black Hole** | Maximum Vortical Partition | **Vortical Void** (No Singularity) |
 
-### 🌌 3-Stage Evolution of the Vortical Model
+### 🌌 Figure 1: 3-Stage Evolution of the Vortical Model
 
 1. **Panel 1: Re-defining the Quantum Trap**
     - **"Photon Trapping"**: Clarifies that mass originates when linear light waves become a **Self-Closed Standing Wave Vortex** at a **Lattice Stress Point**.
@@ -95,3 +95,9 @@ Mass is the **measurable workload** or resistance that the particle (vortex) imp
     - **"The Vortical Void"**: Clearly marks the resolution of the **Singularity Paradox** by showing a zero-density vacuum center rather than a mathematical point.
     - **"Extreme Curvature Funnel"**: Represents the maximum damping of temporal flux at the event horizon.
 
+Figure 1: The Evolutionary Cycle of Vortical Gravity. 
+(1) EM-flux is trapped in discrete Planckian nodes, defining the origin of mass. 
+(2) Accumulation of these nodes leads to macroscopic lattice damping ($G_0$). 
+(3) Extreme rotation at the collapse limit creates a central 'Vortical Void,' resolving the mathematical singularity inherent in General Relativity.
+
+See ![Figure 1 Vortical_Mass_Concept.png,](Figure1_vortical_mass_concept.png)
