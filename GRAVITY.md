@@ -25,3 +25,30 @@ This philosophy leads to the **Inverse-Feedback Law** that resolves the Dark Sec
 
 ## 5. Conclusion for Reviewers
 In this model, **Gravity is the hardware potential, and Curvature is the software overhead.** By reducing the "overhead" (mass density), the "hardware" (spacetime lattice) performs at its maximum theoretical efficiency ($G_{max}$).
+
+## 6. The Unified Field: From Light to the Vortical Void
+
+The Vortical Model provides a single mechanical explanation for Mass, Gravity, and the resolution of Singularities through the partitioning of $E_{total}$ (Total Kinetic Energy Density).
+
+### A. The Origin of Mass: Trapped Light
+In our framework, **Baryonic Mass** is not a fundamental "particle" but a phase transition of energy. When EM-flux cannot maintain linear progression due to local lattice stress, it is forced into a **closed vortical loop at the Planck scale.** 
+- **The Result:** Light becomes "trapped" in a tiny radius ($r_v$), creating the localized damping of lattice stiffness that we perceive as a gravitational field ($G_0$).
+
+### B. The Finite Partition ($P_t^2 + P_{\theta}^2 = 1$)
+The total kinetic energy available at a lattice node ($E_{total}$) is finite and governed by the **Probability Invariance Identity**. Gravity is simply the redirection of the lattice's intrinsic **Stiffness ($\eta$)** into rotation. 
+- In the vacuum, stiffness is used for **Temporal Flux ($P_t \to 1$)**.
+- Near mass, it is diverted to **Vortical Rotation ($P_{\theta} \to 1$)**.
+
+### C. Resolution of Singularities: The Central Vacuum
+General Relativity predicts an "infinite density" singularity at the center of a Black Hole. The Vortical Model resolves this by identifying the **Centrifugal Displacement of Flux**:
+1. **The Event Horizon:** Here, $P_{\theta}$ reaches its maximum limit, and temporal flux ($P_t$) drops to zero. The lattice is 100% committed to rotation.
+2. **The Center (The Vortical Void):** Because $E_{total}$ is finite and must satisfy the partition, the intense rotation at the horizon creates a "centrifugal" void at the geometric center. 
+3. **The Conclusion:** Instead of a singularity, the center of a black hole is a **Zero-Density Vacuum**. Mass is concentrated in the high-energy vortical shell, while the center represents a state of pure lattice restitution.
+
+### 💡 Summary for Reviewers
+
+| Phenomenon | Lattice Energy State | Physical Outcome |
+| :--- | :--- | :--- |
+| **Pure Vacuum** | 100% Linear Flux | Maximum $G$ Recovery ($5.46 G_0$) |
+| **Standard Mass** | Planckian Vortices | Lattice Damping ($G \to G_0$) |
+| **Black Hole** | Maximum Vortical Partition | **Vortical Void** (No Singularity) |
