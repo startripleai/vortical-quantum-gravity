@@ -58,7 +58,7 @@ A particle is not a solid "thing" but a **localized geometric state** of the lat
 
 ### B. Mass: Lattice Damping and Resistance (The Effect)
 Mass is the **measurable workload** or resistance that the particle (vortex) imposes on the surrounding lattice.
-- **Definition:** It is the degree to which the vortical rotation consumes the lattice's motion probability, thereby reducing the local **Temporal Flux ($P_t$)**.
+- **Definition:** It is the degree to which the vortical rotation consumes the lattice's motion probability, thereby reducing the local **Temporal Flux ($P_t$)**. By the $0.183$ (18.3%) temporal efficiency logic, mass is exactly the "missing" 81.7% of time.
 - **Inertial Mass:** The resistance offered by the lattice when attempting to translate a stable vortex across the network.
 - **Gravitational Mass:** The extent to which the vortex "clogs" or damps the local cosmic stiffness ($\eta$), leading to the observed suppression of $G$.
 
