@@ -26,6 +26,9 @@ This repository contains the manuscript and data for a novel quantum gravity fra
 * **Self-Regulating Finiteness**: Derives a 50% suppression of gravity at the Planck limit.
 * **Empirical Consistency**: Reconciled with pulsar timing and the cosmological constant problem.
 
+## GRAVITY: Stiffness vs. Damping Philosophy
+For a deep dive into the mechanical philosophy of our model, see ![GRAVITY.md,](GRAVITY.md) 
+
 ## 📊 Numerical Validation: Galactic Rotation Curves (v1.0.2)
 
 The simulation engine resolves the "Dark Sector" by treating $G$ as a dynamic efficiency variable. The following results are synchronized with **Paper IV (Table 5)** and based on **Gaia DR3** and high-resolution **HI surveys**:
