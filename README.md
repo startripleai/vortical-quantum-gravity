@@ -18,6 +18,7 @@
              
 # vortical-quantum-gravity
 A renormalization-free discrete quantum gravity model based on the vortical phase transition of light and variable coupling constants.
+
 ## Overview
 This repository contains the manuscript and data for a novel quantum gravity framework based on the **Vortical Phase Transition** and the **$G_{max}$ vacuum baseline**.
 
@@ -27,7 +28,7 @@ This repository contains the manuscript and data for a novel quantum gravity fra
 * **Empirical Consistency**: Reconciled with pulsar timing and the cosmological constant problem.
 
 ## GRAVITY: Stiffness vs. Damping Philosophy
-For a deep dive into the mechanical philosophy of our model, see ![GRAVITY.md,](GRAVITY.md) 
+For a deep dive into the mechanical philosophy of our model, see ![GRAVITY.md,](GRAVITY.md)
 
 ## 📊 Numerical Validation: Galactic Rotation Curves (v1.0.2)
 
