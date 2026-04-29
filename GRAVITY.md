@@ -1,4 +1,4 @@
-# 🌌 GRAVITY.md: Stiffness vs. Damping Philosophy
+# 🌌 GRAVITY: Stiffness vs. Damping Philosophy
 
 ## 1. Redefining the Source of Gravity
 In the **Vortical Gravity** framework, gravity is not "created" by mass. Instead, it is an emergent restorative force derived from the intrinsic **Cosmic Stiffness ($\eta \approx 10^{82}$)** of the spacetime lattice. Mass does not generate gravity; it **modulates** the efficiency of a pre-existing field.
