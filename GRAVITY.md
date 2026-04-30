@@ -41,7 +41,7 @@ The total kinetic energy available at a lattice node ($E_{total}$) is finite and
 - In the vacuum, stiffness is used for **Temporal Flux ($P_t \to 1$)**.
 - Near mass, it is diverted to **Vortical Rotation ($P_{\theta} \to 1$)**.
 
-### ## **C. Resolution of Singularities: The Central Vacuum**
+### C. Resolution of Singularities: The Central Vacuum**
 
 General Relativity predicts an "infinite density" singularity at the center of a Black Hole. The **Vortical Model** resolves this paradox by identifying the **Vortical Repulsion of Flux**:
 
