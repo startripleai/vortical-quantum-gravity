@@ -41,11 +41,13 @@ The total kinetic energy available at a lattice node ($E_{total}$) is finite and
 - In the vacuum, stiffness is used for **Temporal Flux ($P_t \to 1$)**.
 - Near mass, it is diverted to **Vortical Rotation ($P_{\theta} \to 1$)**.
 
-### C. Resolution of Singularities: The Central Vacuum
-General Relativity predicts an "infinite density" singularity at the center of a Black Hole. The Vortical Model resolves this by identifying the **Centrifugal Displacement of Flux**:
-1. **The Event Horizon:** Here, $P_{\theta}$ reaches its maximum limit, and temporal flux ($P_t$) drops to zero. The lattice is 100% committed to rotation.
-2. **The Center (The Vortical Void):** Because $E_{total}$ is finite and must satisfy the partition, the intense rotation at the horizon creates a "centrifugal" void at the geometric center. 
-3. **The Conclusion:** Instead of a singularity, the center of a black hole is a **Zero-Density Vacuum**. Mass is concentrated in the high-energy vortical shell, while the center represents a state of pure lattice restitution.
+### ## **C. Resolution of Singularities: The Central Vacuum**
+
+General Relativity predicts an "infinite density" singularity at the center of a Black Hole. The **Vortical Model** resolves this paradox by identifying the **Vortical Repulsion of Flux**:
+
+- **The Event Horizon ($r=2$):** At this boundary, the rotational probability $P_{\theta}$ reaches its maximum limit, and the temporal flux ($P_t$) drops to zero. The lattice is 100% committed to rotation, establishing the **vortical saturation limit**.
+- **The Center (The Vortical Void):** Because the total energy density $E_{total}$ is finite and must satisfy the probability partition ($P_t^2 + P_{\theta}^2 = 1$), the intense rotation at the horizon generates an emergent **vortical repulsion**. This geometric pressure displaces energy-matter radially outward toward the event horizon shell.
+- **The Conclusion:** Instead of a singularity, the geometric center of a black hole is a **Zero-Density Vacuum**. Mass-energy is concentrated in the high-energy **Vortical Torus shell**, while the core represents a state of **pure lattice restitution**, effectively creating a **Vortical Void**.
 
 ## 7. The Distinction Between Particle and Mass
 
