@@ -47,6 +47,20 @@ The simulation engine resolves the "Dark Sector" by treating $G$ as a dynamic ef
 
 ![Vortical Results](vortical_results.png)
 
+## 📢 Version 1.0.2 Update: The Vortical Repulsion Refinement
+
+In this version, we have formally redefined the mechanical outward pressure within the black hole interior from **"Centrifugal Force"** to **"Vortical Repulsion ($F_{vr}$)"**. 
+
+### Why the Change?
+While "centrifugal force" provided a useful Newtonian analogy, it is often viewed as a pseudo-force in a continuous manifold. In the **Vortical Gravity** framework, the outward pressure is an **emergent, real force** caused by the 50/50 probability partitioning of the discrete lattice at the saturation limit ($X \to 1$). 
+
+**Vortical Repulsion** better describes the lattice's active resistance against gravitational collapse, establishing the **Topological Equilibrium** that maintains the **Vortical Void (Hollow Core)**.
+
+### Key Documentation Updates:
+- **Paper IV (Manuscript):** All instances of "centrifugal force" replaced with **"vortical repulsion"**.
+- **BLACKHOLE.md:** Updated the "Singularity Resolution" section to reflect the mechanical barrier at $r=2$.
+- **GRAVITY.md:** Refined the "Stiffness vs. Damping" logic to include the $F_{vr}$ vector decomposition.
+
 ## Citation
 If you use this research, please cite it as:
 
