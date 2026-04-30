@@ -64,7 +64,7 @@ If you use this research, please cite it as:
 
 **Copyright (c) 2026 Dong Hoon Oh.**
 
-All original theoretical frameworks in this repository, including the **Vortical Research Series (Papers 1-3)**, are protected by copyright. This includes the specific numerical constants ($\eta, \gamma$), the Vortical Radius ($r_v$), and the 3D Volumetric Vortex mechanics.
+All original theoretical frameworks in this repository, including the **Vortical Research Series (Papers 1-4)**, are protected by copyright. This includes the specific numerical constants ($\eta, \gamma$), the Vortical Radius ($r_v$), and the 3D Volumetric Vortex mechanics.
 
 Licensed under **CC BY 4.0**. 
 - **Requirement**: Any use of these models in academic or commercial research must include a full citation of the relevant Zenodo DOI.
