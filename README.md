@@ -57,7 +57,7 @@ While "centrifugal force" provided a useful Newtonian analogy, it is often viewe
 **Vortical Repulsion** better describes the lattice's active resistance against gravitational collapse, establishing the **Topological Equilibrium** that maintains the **Vortical Void (Hollow Core)**.
 
 ### Key Documentation Updates:
-- **Paper IV (Manuscript):** All instances of "centrifugal force" replaced with **"vortical repulsion"**.
+- **Paper III (Manuscript):** All instances of "centrifugal force" replaced with **"vortical repulsion"**.
 - **BLACKHOLE.md:** Updated the "Singularity Resolution" section to reflect the mechanical barrier at $r=2$.
 - **GRAVITY.md:** Refined the "Stiffness vs. Damping" logic to include the $F_{vr}$ vector decomposition.
 
