@@ -76,15 +76,23 @@ Mass is the **measurable workload** or resistance that the particle (vortex) imp
 
 ## 8. Cosmic Energy Partitioning: The $10^{82}$ Symmetry
 
-The numerical alignment between the total number of particles in the observable universe ($N \approx 10^{82}$) and the **Cosmic Stiffness ($\eta \approx 10^{82}$)** is not a coincidence, but a fundamental property of the Vortical Lattice.
+The numerical alignment between the total number of particles ($N \approx 10^{82}$) and the **Cosmic Stiffness ($\eta \approx 10^{82}$)** is the direct result of the **Discrete Temporal Symmetry Breaking ($dt$)**.
 
-### A. The Lattice-Particle Identity
-In the Vortical Model, each particle is a localized "trapped flux" within a specific lattice node. The identity $N \approx \eta$ suggests that:
-- **Universal Scale:** The universe functions as a singular, unified **Vortical Tensor Network** where every available lattice degree of freedom is accounted for.
-- **Energy Potential:** If each lattice node possesses a potential energy related to the Planck scale, the total potential energy of the universe is inherently linked to the total number of its discrete units.
+### A. The $dt$-Driven Energy Density
+According to the Heisenberg Uncertainty Principle, the irreducible temporal gap ($dt$) forbids a state of zero energy. We define the total potential energy of the lattice ($E_{univ}$) as the sum of the excitation at each node:
 
-### B. Energy Density Correlation
-When the motion probability $P_m$ is partitioned across $10^{82}$ nodes, the global vacuum pressure and the localized "Broken Balance" ($dt$) maintain a strict conservation law. This symmetry explains why the **Hubble Tension** and the **Cosmological Constant** can be derived from first principles using the $\eta$ constant as a global normalization factor.
+$$E_{univ} = \eta \cdot \frac{\hbar}{2 dt}$$
+
+Where:
+- $\eta = 10^{82}$ (Total number of lattice nodes / Cosmic Stiffness)
+- $dt \approx 5.39 \times 10^{-44} \text{ s}$ (Planck time / Irreducible temporal gap)
+
+### B. Symmetry Breaking and Mass Emergence
+When the symmetry of the vacuum is broken, the linear flux is partitioned into vortical mass. The observed baryonic energy ($E_{baryon}$) is a damped fraction of the total lattice potential:
+
+$$E_{baryon} = N \cdot m_p c^2 \approx 10^{82} \cdot 1.5 \times 10^{-10} \text{ J} \approx 10^{72} \text{ J}$$
+
+This energy represents the **Vortical Partition** of the total stiffness. The identity $N \approx \eta$ proves that the universe is a **Saturated Tensor Network**, where every discrete lattice node is active in maintaining the global equilibrium of gravity and expansion.
 
 ---
 **Conclusion:** Mass is the "geometric cost" of maintaining a particle's structure within a discrete manifold. $E=mc^2$ is the conversion rate between the energy in its free linear state ($E$) and its trapped, lattice-damping state ($m$).
