@@ -47,6 +47,8 @@ The simulation engine resolves the "Dark Sector" by treating $G$ as a dynamic ef
 
 ![Vortical Results](vortical_results.png)
 
+[Read more about Vortical Gravity Simulation Engine]([README.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/README.md)
+
 ## 📢 Version 1.0.2 Update: The Vortical Repulsion Refinement
 
 In this version, we have formally redefined the mechanical outward pressure within the black hole interior from **"Centrifugal Force"** to **"Vortical Repulsion ($F_{vr}$)"**. 
