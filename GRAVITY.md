@@ -23,10 +23,10 @@ This philosophy leads to the **Inverse-Feedback Law** that resolves the Dark Sec
 *   **Dark Matter:** We are not "missing" hidden particles. What we observe at galactic fringes is the **un-damping** of the lattice's intrinsic stiffness as space becomes flatter, naturally increasing the gravitational coupling strength.
 *   **Dark Energy:** The expansion of the universe is the lattice’s collective attempt to resolve the **Discrete Temporal Symmetry Breaking ($dt$)** by increasing the volume to reduce localized damping.
 
-## 5. Conclusion for Reviewers
-In this model, **Gravity is the hardware potential, and Curvature is the software overhead.** By reducing the "overhead" (mass density), the "hardware" (spacetime lattice) performs at its maximum theoretical efficiency ($G_{max}$).
+---
+**Conclusion:** In this model, **Gravity is the hardware potential, and Curvature is the software overhead.** By reducing the "overhead" (mass density), the "hardware" (spacetime lattice) performs at its maximum theoretical efficiency ($G_{max}$).
 
-## 6. The Unified Field: From Light to the Vortical Void
+## 5. The Unified Field: From Light to the Vortical Void
 
 The Vortical Model provides a single mechanical explanation for Mass, Gravity, and the resolution of Singularities through the partitioning of $E_{total}$ (Total Kinetic Energy Density).
 
@@ -49,7 +49,7 @@ General Relativity predicts an "infinite density" singularity at the center of a
 - **The Center (The Vortical Void):** Because the total energy density $E_{total}$ is finite and must satisfy the probability partition ($P_t^2 + P_{\theta}^2 = 1$), the intense rotation at the horizon generates an emergent **vortical repulsion**. This geometric pressure displaces energy-matter radially outward toward the event horizon shell.
 - **The Conclusion:** Instead of a singularity, the geometric center of a black hole is a **Zero-Density Vacuum**. Mass-energy is concentrated in the high-energy **Vortical Torus shell**, while the core represents a state of **pure lattice restitution**, effectively creating a **Vortical Void**.
 
-## 7. The Distinction Between Particle and Mass
+## 6. The Distinction Between Particle and Mass
 
 In the **Vortical Model**, a "Particle" and its "Mass" are not the same thing; they represent the **Structure** and the **Effect** within the lattice.
 
@@ -74,7 +74,7 @@ Mass is the **measurable workload** or resistance that the particle (vortex) imp
 | **Analogy** | A **whirlpool** in a river. | The **drag/resistance** the whirlpool creates. |
 | **Result** | Emergence of Matter. | Emergence of a Gravitational Field ($G_0$). |
 
-## 8. Cosmic Energy Partitioning: The $10^{82}$ Symmetry and the $10^3$ Energy Gap
+## 7. Cosmic Energy Partitioning: The $10^{82}$ Symmetry and the $10^3$ Energy Gap
 
 The numerical alignment between the total number of particles ($N \approx 10^{82}$) and the **Cosmic Stiffness ($\eta \approx 10^{82}$)** proves a "Cosmic-scale Quantum Synchronization." 
 
