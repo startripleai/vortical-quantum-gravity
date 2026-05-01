@@ -95,23 +95,6 @@ The "missing" $99.9\%$ of the energy ($10^{72}$ vs $10^{69}$) is not lost; it is
 2. **G-Recovery Potential ($G_{max}$):** The observed $G_0$ is a damped state. The 1,000x energy reserve accounts for the transition to the unsuppressed vacuum state ($G_{max} \approx 5.46 G_0$), where the lattice's restorative potential is fully unleashed.
 
 **The $10^{82}$ Symmetry:** The universe is a singular **Vortical Tensor Network** where the $10^{82}$ nodes synchronize to conserve the total potential energy, balancing localized mass (Trapped Light) against global expansion (Dark Energy).
-
-------------------------------------------------------------
-🚀 VORTICAL COSMOLOGY: COSMIC ENERGY SYNC & GAP CHECK
-------------------------------------------------------------
-Total Lattice Nodes (eta)    : 1.0e+82
-Theoretical Total Potential  : 1.5e+72 J
-Observed Baryonic Energy     : 1.0e+69 J
-------------------------------------------------------------
-Energy Discrepancy Ratio     : 1,500x (The 10^3 Gap)
-------------------------------------------------------------
-PHYSICAL ANALYSIS:
-1. Status      : Discrete Temporal Symmetry Breaking (dt) ACTIVE
-2. Dark Energy : Stored as Latent Lattice Stiffness (eta)
-3. G-Recovery  : Reserve potential supports 5.46x G_max recovery
-------------------------------------------------------------
-Conclusion: Universe is a Saturated 10^82 Vortical Network.
-============================================================
 ---
 **Conclusion:** Mass is the "geometric cost" of maintaining a particle's structure within a discrete manifold. $E=mc^2$ is the conversion rate between the energy in its free linear state ($E$) and its trapped, lattice-damping state ($m$).
 
