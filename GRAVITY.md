@@ -22,9 +22,9 @@ This philosophy leads to the **Inverse-Feedback Law** that resolves the Dark Sec
 ## 4. Resolving the Dark Sector
 *   **Dark Matter:** We are not "missing" hidden particles. What we observe at galactic fringes is the **un-damping** of the lattice's intrinsic stiffness as space becomes flatter, naturally increasing the gravitational coupling strength.
 *   **Dark Energy:** The expansion of the universe is the lattice’s collective attempt to resolve the **Discrete Temporal Symmetry Breaking ($dt$)** by increasing the volume to reduce localized damping.
-
 ---
-**Conclusion:** In this model, **Gravity is the hardware potential, and Curvature is the software overhead.** By reducing the "overhead" (mass density), the "hardware" (spacetime lattice) performs at its maximum theoretical efficiency ($G_{max}$).
+**Hardware & Software:** In this model, **Gravity is the hardware potential, and Curvature is the software overhead.** By reducing the "overhead" (mass density), the "hardware" (spacetime lattice) performs at its maximum theoretical efficiency ($G_{max}$).
+
 
 ## 5. The Unified Field: From Light to the Vortical Void
 
@@ -66,7 +66,6 @@ Mass is the **measurable workload** or resistance that the particle (vortex) imp
 
 ### 💡 Conceptual Comparison
 
-
 | Category | **The Particle (Structure)** | **The Mass (Effect)** |
 | :--- | :--- | :--- |
 | **Physical Identity** | A localized **Vortex** of energy. | The resulting **Damping** of the lattice. |
@@ -97,9 +96,9 @@ The "missing" $99.9\%$ of the energy ($10^{72}$ vs $10^{69}$) is not lost; it is
 **The $10^{82}$ Symmetry:** The universe is a singular **Vortical Tensor Network** where the $10^{82}$ nodes synchronize to conserve the total potential energy, balancing localized mass (Trapped Light) against global expansion (Dark Energy).
 
 [Read more about Vortical Gravity Simulation Engine]([README.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/README.md)
-
 ---
-**Conclusion:** Mass is the "geometric cost" of maintaining a particle's structure within a discrete manifold. $E=mc^2$ is the conversion rate between the energy in its free linear state ($E$) and its trapped, lattice-damping state ($m$).
+**Lattice Damping:** Mass is the "geometric cost" of maintaining a particle's structure within a discrete manifold. $E=mc^2$ is the conversion rate between the energy in its free linear state ($E$) and its trapped, lattice-damping state ($m$).
+
 
 ### 💡 Summary for Reviewers
 
