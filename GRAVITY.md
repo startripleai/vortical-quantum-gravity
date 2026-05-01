@@ -96,9 +96,9 @@ The "missing" $99.9\%$ of the energy ($10^{72}$ vs $10^{69}$) is not lost; it is
 
 **The $10^{82}$ Symmetry:** The universe is a singular **Vortical Tensor Network** where the $10^{82}$ nodes synchronize to conserve the total potential energy, balancing localized mass (Trapped Light) against global expansion (Dark Energy).
 
-============================================================
+------------------------------------------------------------
 🚀 VORTICAL COSMOLOGY: COSMIC ENERGY SYNC & GAP CHECK
-============================================================
+------------------------------------------------------------
 Total Lattice Nodes (eta)    : 1.0e+82
 Theoretical Total Potential  : 1.5e+72 J
 Observed Baryonic Energy     : 1.0e+69 J
