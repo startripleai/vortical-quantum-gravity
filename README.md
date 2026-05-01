@@ -6,8 +6,8 @@
 | **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19652476.svg)](https://doi.org/10.5281/zenodo.19652476) |
 | **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
 | **Paper 3** | The Volumetric Vortex (Mechanics) (v1.0.2) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19916654.svg)](https://doi.org/10.5281/zenodo.19916654) |
-| **Paper 4** | The Emergent Dark Sector (v1.0.1) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19786931.svg)](https://doi.org/10.5281/zenodo.19786931) |
-| *Paper 4* | The Emergent Dark Sector (v1.0.2) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859532.svg)](https://doi.org/10.5281/zenodo.19859532) |
+| **Paper 4.1** | The Emergent Dark Sector (v1.0.1) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19786931.svg)](https://doi.org/10.5281/zenodo.19786931) |
+| *Paper 4.2* | The Emergent Dark Sector (v1.0.2) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859532.svg)](https://doi.org/10.5281/zenodo.19859532) |
 
 ## Publications
 1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.19652476)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
