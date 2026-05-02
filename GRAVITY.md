@@ -20,6 +20,7 @@ This philosophy leads to the **Inverse-Feedback Law** that resolves the Dark Sec
 | **Low Density (Galactic Void)** | Near-Flat | **Restored / Efficient** | **Strong ($G \to 5.46 G_0$)** |
 
 ## 4. Resolving the Dark Sector
+At the galactic fringes, the lattice does not merely become 'flat' in a Euclidean sense; rather, it undergoes Structural Relaxation, returning to its Intrinsic Baseline of $10^{82}$. This state represents the Maximum Restorative Potential of the vacuum, where the suppression of global stiffness vanishes, enabling the full recovery of gravitational efficiency ($G_{max}$).
 *   **Dark Matter:** We are not "missing" hidden particles. What we observe at galactic fringes is the **un-damping** of the lattice's intrinsic stiffness as space becomes flatter, naturally increasing the gravitational coupling strength.
 *   **Dark Energy:** The expansion of the universe is the lattice’s collective attempt to resolve the **Discrete Temporal Symmetry Breaking ($dt$)** by increasing the volume to reduce localized damping.
 ---
