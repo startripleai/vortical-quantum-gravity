@@ -109,7 +109,7 @@ The "missing" $99.9\%$ of the energy ($10^{72}$ vs $10^{69}$) is not lost; it is
 | **Standard Mass** | Planckian Vortices | Lattice Damping ($G \to G_0$) |
 | **Black Hole** | Maximum Vortical Partition | **Vortical Void** (No Singularity) |
 
-## 6. The Duality of Stiffness: Local Inflation vs. Global Suppression
+## 8. The Duality of Stiffness: Local Inflation vs. Global Suppression
 
 Lattice Stiffness ($\eta$) is a dynamic potential governed by a fundamental trade-off between localized energy loading and global structural integrity.
 
