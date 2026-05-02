@@ -109,20 +109,6 @@ The "missing" $99.9\%$ of the energy ($10^{72}$ vs $10^{69}$) is not lost; it is
 | **Standard Mass** | Planckian Vortices | Lattice Damping ($G \to G_0$) |
 | **Black Hole** | Maximum Vortical Partition | **Vortical Void** (No Singularity) |
 
-## 8. The Duality of Stiffness: Local Inflation vs. Global Suppression
-
-Lattice Stiffness ($\eta$) is a dynamic potential governed by a fundamental trade-off between localized energy loading and global structural integrity.
-
-### A. Local Stiffness Inflation ($> 10^{82}$)
-When light is "trapped" to form mass, the localized lattice nodes experience **Local Stiffness Inflation** ($\eta_{loc} > 10^{82}$). To contain high energy density, a node must increase its individual resistance, becoming "hyper-stiff."
-
-### B. The Restorative Drive
-This inflated state is fundamentally a **high-tension instability**. Like a stretched spring, a node inflated by trapped light possesses an intrinsic "Restorative Drive" to return to its ground state equilibrium of $10^{82}$. 
-- **Gravity as Restoration:** What we perceive as gravitational attraction is the manifestation of the lattice attempting to "relax" local inflation back toward the $10^{82}$ vacuum baseline.
-
-### C. Global Intrinsic Suppression
-The energy for local inflation is "borrowed" from the structural coherence of the surrounding network. As a node inflates, it distorts the grid (Spacetime Curvature), causing the **Global Intrinsic Stiffness** to be suppressed. This explains why $G$ is at its lowest ($G_0$) near dense mass where the global network is most compromised.
-
 
 ---
 
