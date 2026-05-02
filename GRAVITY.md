@@ -143,7 +143,7 @@ At the **Vortical Radius ($r_v$)**, the local stiffness reaches its absolute sat
 
 # 📑 The Duality of Lattice Stiffness: Local Inflation vs. Global Suppression
 
-In the Absolute Quadrilogy, **Stiffness ($\eta$)** is not a static constant but a dynamic tension field. Its behavior is defined by a fundamental duality: the trade-off between **Localized Energy Density** and **Global Structural Integrity**.
+In the **Vortical Gravity** framework, **Stiffness ($\eta$)** is not a static constant but a dynamic tension field. Its behavior is defined by a fundamental duality: the trade-off between **Localized Energy Density** and **Global Structural Integrity**.
 
 ## **1. The Global Baseline: $\eta \approx 10^{82}$**
 
