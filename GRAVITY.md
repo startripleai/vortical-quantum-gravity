@@ -117,12 +117,23 @@ The "missing" $99.9\%$ of the energy ($10^{72}$ vs $10^{69}$) is not lost; it is
 
 In the **Vortical Gravity** framework, **Gravity ($G$)** is not an independent fundamental force but the measurable **Restorative Efficiency** of the spacetime lattice as it attempts to maintain its cosmic ground state.
 
-## **1. The Duality of Stiffness: Inflation vs. Suppression**
+## **1. The Duality of Stiffness: Local Inflation vs. Global Suppression**
 
-The lattice operates through a dynamic trade-off between localized energy containment and global structural integrity.
+Lattice Stiffness ($\eta$) is a dynamic potential governed by a fundamental trade-off between localized energy loading and global structural integrity. 
 
-- **Local Stiffness Inflation ($\eta_{loc} > 10^{82}$):** When "Trapped Light" (mass) occupies a lattice node, it acts as a structural wedge. To contain this high energy density, the node must increase its local resistance, causing the stiffness to inflate **beyond the $10^{82}$ baseline**. This is an unstable, high-tension state.
-- **Global Stiffness Suppression ($\eta_{glb} < 10^{82}$):** Because the energy for local inflation is "borrowed" from the surrounding network, the global bonds become distorted and strained (Spacetime Curvature). Consequently, the global intrinsic stiffness drops **below the $10^{82}$ baseline**, weakening the fabric's ability to transmit force.
+### A. The Vacuum as the Ground State ($\eta \approx 10^{82}$)
+In the Absolute Quadrilogy, the vacuum is not a passive, Euclidean "flat" void. Instead, it is the **Structural Ground State** of the universe—the point of **Maximum Lattice Potential**. 
+- **Beyond Flatness:** When we observe the galactic fringes or deep cosmic voids, the lattice undergoes **Structural Relaxation**. 
+- **Restoration:** In the absence of mass-induced stress, the lattice restores its intrinsic baseline of $\eta \approx 10^{82}$. This represents the "hardest" and most coherent state of the spacetime fabric, which is why gravitational efficiency recovers to its peak: **$G_{max} \approx 5.46 G_0$**.
+
+### B. Local Stiffness Inflation ($> 10^{82}$)
+When energy is localized to form "Trapped Light" (mass), it acts as a structural wedge. To contain high energy density, a node must increase its individual resistance, causing the local stiffness to inflate **beyond the $10^{82}$ baseline**. This creates a high-tension "Stiffness Peak" that is fundamentally unstable.
+
+### C. Global Intrinsic Suppression ($< 10^{82}$)
+The energy for local inflation is effectively "borrowed" from the global network. As a node inflates, it distorts the grid, causing the **Global Intrinsic Stiffness** to be suppressed. 
+- **The Restorative Drive:** Gravity is the manifestation of the lattice’s attempt to relax this local inflation and restore the global suppression back into the **$10^{82}$ Ground State**. 
+- **Damping:** Near dense mass, the structural suppression is at its maximum, resulting in the **Functional Damping** of gravity to the observed $G_0$ (Earth baseline).
+
 
 ## **2. Gravity ($G$) as the Restorative Force**
 
