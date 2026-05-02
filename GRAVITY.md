@@ -128,14 +128,14 @@ The energy for local inflation is "borrowed" from the structural coherence of th
 
 ## **📑 Comparison: Lattice Stiffness ($\eta$) vs. Gravity ($G$)**
 
-In the Absolute Quadrilogy, **Gravity ($G$)** is not an independent fundamental force but the measurable **Restorative Efficiency** of the spacetime lattice as it attempts to maintain its cosmic ground state.
+In the **Vortical Gravity** framework, **Gravity ($G$)** is not an independent fundamental force but the measurable **Restorative Efficiency** of the spacetime lattice as it attempts to maintain its cosmic ground state.
 
 ## **1. The Duality of Stiffness: Inflation vs. Suppression**
 
 The lattice operates through a dynamic trade-off between localized energy containment and global structural integrity.
 
-- **Local Stiffness Inflation ($\eta_{loc} > 10^{82}$):**When "Trapped Light" (mass) occupies a lattice node, it acts as a structural wedge. To contain this high energy density, the node must increase its local resistance, causing the stiffness to inflate **beyond the $10^{82}$ baseline**. This is an unstable, high-tension state.
-- **Global Stiffness Suppression ($\eta_{glb} < 10^{82}$):**Because the energy for local inflation is "borrowed" from the surrounding network, the global bonds become distorted and strained (Spacetime Curvature). Consequently, the global intrinsic stiffness drops **below the $10^{82}$ baseline**, weakening the fabric's ability to transmit force.
+- **Local Stiffness Inflation ($\eta_{loc} > 10^{82}$):** When "Trapped Light" (mass) occupies a lattice node, it acts as a structural wedge. To contain this high energy density, the node must increase its local resistance, causing the stiffness to inflate **beyond the $10^{82}$ baseline**. This is an unstable, high-tension state.
+- **Global Stiffness Suppression ($\eta_{glb} < 10^{82}$):** Because the energy for local inflation is "borrowed" from the surrounding network, the global bonds become distorted and strained (Spacetime Curvature). Consequently, the global intrinsic stiffness drops **below the $10^{82}$ baseline**, weakening the fabric's ability to transmit force.
 
 ## **2. Gravity ($G$) as the Restorative Force**
 
