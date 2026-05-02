@@ -128,60 +128,37 @@ The energy for local inflation is "borrowed" from the structural coherence of th
 
 ## **📑 Comparison: Lattice Stiffness ($\eta$) vs. Gravity ($G$)**
 
-In the Vortical Gravity framework, Gravity is not an independent fundamental force but an **emergent efficiency** resulting from the interaction between mass and the universal Lattice Stiffness.
+In the Absolute Quadrilogy, **Gravity ($G$)** is not an independent fundamental force but the measurable **Restorative Efficiency** of the spacetime lattice as it attempts to maintain its cosmic ground state.
 
-## **1. Fundamental Definitions**
+## **1. The Duality of Stiffness: Inflation vs. Suppression**
 
-| Component | **Lattice Stiffness ($\eta$)** | **Gravity ($G$)** |
-| --- | --- | --- |
-| **Nature** | **Global Potential** (The Fabric) | **Local Efficiency** (The Output) |
-| **Baseline** | $\eta \approx 10^{82}$ (Cosmic Constant) | $G_{max} \approx 5.46 G_0$ (Vacuum Peak) |
-| **Mechanics** | Structural Integrity | Coupling Strength |
-| **State** | **Suppressed** by Curvature | **Damped** by Mass |
+The lattice operates through a dynamic trade-off between localized energy containment and global structural integrity.
 
----
+- **Local Stiffness Inflation ($\eta_{loc} > 10^{82}$):**When "Trapped Light" (mass) occupies a lattice node, it acts as a structural wedge. To contain this high energy density, the node must increase its local resistance, causing the stiffness to inflate **beyond the $10^{82}$ baseline**. This is an unstable, high-tension state.
+- **Global Stiffness Suppression ($\eta_{glb} < 10^{82}$):**Because the energy for local inflation is "borrowed" from the surrounding network, the global bonds become distorted and strained (Spacetime Curvature). Consequently, the global intrinsic stiffness drops **below the $10^{82}$ baseline**, weakening the fabric's ability to transmit force.
 
-## **2. The Structural vs. Functional Duality**
+## **2. Gravity ($G$) as the Restorative Force**
 
-To understand the interaction between $\eta$ and $G$, we must distinguish between the **Suppression** of the lattice structure and the **Damping** of the gravitational result.
+The true nature of Gravity is the lattice's fundamental "Geometric Drive" to return to its ground state.
 
-## **A. Structural Suppression (The Cause)**
+- **The Mechanism:** The lattice possesses an inherent "memory" of its $\eta \approx 10^{82}$ equilibrium. What we perceive as gravitational attraction is the manifestation of the lattice attempting to **relax Local Inflation ($>10^{82}$)** and **restore Global Suppression ($<10^{82}$)** back into the stable $10^{82}$ baseline.
+- **The Efficiency ($G$):** The gravitational constant ($G$) represents the efficiency of this restoration. Near dense mass, where structural suppression is maximum, the efficiency is damped to **$G_0$**. In a pure vacuum, the suppression vanishes, allowing gravity to recover to its absolute ceiling: **$G_{max} \approx 5.46 G_0$**.
 
-**Suppression** refers to the geometric weakening of the lattice's **Intrinsic Stiffness**.
+## **📊 Summary of the Restorative Duality**
 
-- When mass is injected, it causes **Local Stiffness Inflation** ($\eta_{loc} > 10^{82}$).
-- This inflation distorts the surrounding grid (Spacetime Curvature).
-- The more curved the space, the more the lattice's global bonds are stretched and **Suppressed**, hindering its natural restorative ability.
+| State | Local Stiffness ($\eta_{loc}$) | Global Stiffness ($\eta_{glb}$) | Gravitational State ($G$) |
+| --- | --- | --- | --- |
+| **Pure Vacuum** | $0$ (Equilibrium) | **$10^{82}$ (Ground State)** | **Restored** ($G_{max}$) |
+| **Near Mass** | **Inflated ($> 10^{82}$)** | **Suppressed ($< 10^{82}$)** | **Restoring** ($G_{0}$) |
+| **Black Hole** | **Saturated** | **Inhibited** | **Vortical Transition** |
 
-## **B. Functional Damping (The Result)**
+## **3. Conclusion: The $10^{-9}$ Equilibrium**
 
-**Damping** refers to the reduction in the **Functional Output** of the lattice.
+The collapse of a star stops at the **$10^{-9}$ Compression Limit** because local inflation reaches a saturation point where it hits the "ceiling" of the $10^{82}$ global baseline.
 
-- Because the structural stiffness is suppressed, the lattice's ability to process and transmit energy is inhibited.
-- This results in **Lattice Damping**, where the observed gravitational constant ($G$) and time efficiency ($P_t$) drop below their vacuum maximums.
-- **Earth Context:** On Earth, the presence of mass has **suppressed** the lattice structure, leading to the **damped** gravitational value of $G_0$ we measure today.
+At this threshold, the lattice can no longer be suppressed; it instead transitions into **Vortical Rotation**. This creates the **Vortical Void**, the ultimate geometric victory where the lattice finally succeeds in restoring the pure **$\eta \approx 10^{82}$** state at the center of the hollow core.
 
 ---
-
-## **3. The $10^3$ Energy Gap & $G$ Recovery**
-
-This comparison resolves the mystery of **Dark Energy** and **Galactic Rotation Curves**:
-
-1. **Stiffness Restoration:** In the deep voids of space, there is no mass to cause local inflation. Therefore, the **Structural Suppression** vanishes.
-2. **$G$ Recovery:** As the lattice returns to its unsuppressed baseline ($\eta \approx 10^{82}$), the **Functional Damping** ceases. Gravity recovers to its uninhibited state: **$G_{max} \approx 5.46 G_0$**.
-3. **Expansion Pressure:** The energy difference between the damped state ($10^{69}$ J) and the absolute potential ($10^{72}$ J) is stored as the **Latent Stiffness** of the lattice. This $10^3$ energy gap acts as the expansion pressure driving the universe.
-
----
-
-## **4. Summary: The Rule of the Lattice**
-
-> "Mass **inflates** the node, which **suppresses** the structural stiffness, which **damps** the gravitational output ($G$)."
-> 
-
-When the system reaches the **$10^{-9}$ Compression Limit**, the local inflation hits the "structural ceiling" of the $10^{82}$ baseline. At this point, the lattice can no longer be suppressed; it instead transitions into **Vortical Rotation**, forming the **Vortical Void** where both suppression and damping are eliminated, and the pure $10^{82}$ state is restored at the core.
-
----
-Gravity is the measurable damping of the universal stiffness. While $G$ pulls mass together, $\eta$ provides the structural memory that restores the vacuum. The interaction between these two constants governs everything from galactic rotation curves to the formation of the **Vortical Void**.
 
 ### 🌌 Figure 1: 3-Stage Evolution of the Vortical Model
 
