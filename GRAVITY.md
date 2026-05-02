@@ -140,7 +140,7 @@ At the **Vortical Radius ($r_v$)**, the local stiffness reaches its absolute sat
 
 ---
 
-# **Comparison: Lattice Stiffness ($\eta$) vs. Gravity ($G$)**
+# 🌌 Comparison: Lattice Stiffness ($\eta$) vs. Gravity ($G$)
 
 In the Vortical Gravity framework, Gravity is not an independent fundamental force but an **emergent phenomenon** resulting from the local suppression of the global Lattice Stiffness.
 
