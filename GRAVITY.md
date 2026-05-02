@@ -122,7 +122,7 @@ In the **Vortical Gravity** framework, **Gravity ($G$)** is not an independent f
 Lattice Stiffness ($\eta$) is a dynamic potential governed by a fundamental trade-off between localized energy loading and global structural integrity. 
 
 ### A. The Vacuum as the Ground State ($\eta \approx 10^{82}$)
-In the Absolute Quadrilogy, the vacuum is not a passive, Euclidean "flat" void. Instead, it is the **Structural Ground State** of the universe—the point of **Maximum Lattice Potential**. 
+In the Vortical Gravity framework, the vacuum is not a passive, Euclidean "flat" void. Instead, it is the **Structural Ground State** of the universe—the point of **Maximum Lattice Potential**. 
 - **Beyond Flatness:** When we observe the galactic fringes or deep cosmic voids, the lattice undergoes **Structural Relaxation**. 
 - **Restoration:** In the absence of mass-induced stress, the lattice restores its intrinsic baseline of $\eta \approx 10^{82}$. This represents the "hardest" and most coherent state of the spacetime fabric, which is why gravitational efficiency recovers to its peak: **$G_{max} \approx 5.46 G_0$**.
 
