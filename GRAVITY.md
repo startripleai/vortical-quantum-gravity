@@ -136,6 +136,8 @@ At the **Vortical Radius ($r_v$)**, the local stiffness reaches its absolute sat
 - The system resolves this over-stiffening by **Phase Transitioning** into the **Vortical Torus**.
 - This explains why the **Compression Ratio** stalls at $10^{-9}$; it is the limit where the local stiffness $\eta$ hits the maximum structural threshold allowed by the discrete manifold.
 
+[Read more about Vortical Black Hole Dynamic Simulator]([COMPARISON.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/COMPARISON.md)
+
 ---
 
 # **Comparison: Lattice Stiffness ($\eta$) vs. Gravity ($G$)**
