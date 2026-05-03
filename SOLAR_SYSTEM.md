@@ -40,14 +40,15 @@ When a body like **Pluto** crosses the orbital distance of **Neptune**, it under
 - **Outside Neptune (> 30 AU):** Pluto moves into the **Restored Vacuum**. The lattice bonds tighten, increasing gravitational coupling. Pluto must accelerate its vortical velocity to generate sufficient **Vortical Repulsion** to avoid being pulled into a lower orbit.
 - **Resonant Stability:** The 3:2 resonance between these bodies is a **Lattice Harmonic** that prevents constructive interference of mass-suppression, ensuring 13.8 billion years of stable cross-orbital movement.
 
-### **The 3:2 Mean Motion Resonance: A Lattice Harmonic Proof**
+### **The 3:2 Mean Motion Resonance: Lattice Resonant Harmony**
 
-The resonance between Neptune and Pluto is the Solar System's primary evidence of **Lattice Synchronization**. 
+The 3:2 synchronization between Neptune and Pluto is a **Lattice Resonant Harmony**, a structural mechanism that ensures long-term orbital stability through topological alignment.
 
-1. **Frequency Lock:** The 3:2 ratio ($3f_P \approx 2f_N$) creates a **Standing Wave** in the local spacetime fabric.
-2. **Suppression Avoidance:** This harmonic ensures that the **Local Stiffness Inflation** of Neptune and the inflation of Pluto never occupy the same lattice coordinates during their closest approach.
-3. **Vortical Balancing:** Pluto's eccentric path is a "Lattice Pulse" that draws energy from the **$10^3$ Energy Gap** at aphelion and sheds it via **Vortical Repulsion** at perihelion.
-4. **Stability:** The resonance is a **Topological Shield** that prevents the "Structural Suppression" of the two planets from collapsing into a singular chaotic zone.
+1. **Pulse Synchronization:** The 3:2 ratio ($3f_{LP} \approx 2f_{LN}$) creates a **Geometric Standing Pulse** in the spacetime fabric. This is distinct from the standing waves of light; it is a macroscopic resonance of the lattice itself.
+2. **Suppression Phasing:** This harmony ensures that the **Local Stiffness Inflation** caused by Neptune and Pluto’s respective masses never constructively interfere. The lattice "phasing" keeps their high-stress zones separated in 4D coordinates.
+3. **Vortical Balancing:** Pluto’s eccentric orbit acts as a probe of the **Gravity Gradient**. It draws from the **$10^3$ Energy Gap** as it moves into the restored lattice of the outer system, requiring a recalibration of its **Vortical Repulsion ($F_{vr}$)**.
+4. **Topological Shield:** This resonance acts as a **Structural Buffer**, preventing chaotic interference in the lattice stiffness and preserving the Solar System’s equilibrium for 13.8 billion years.
+
 
 ## **📊 Summary of the "Crossing" Effect**
 
