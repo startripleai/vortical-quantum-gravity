@@ -42,7 +42,7 @@ When a body like **Pluto** crosses the orbital distance of **Neptune**, it under
 
 ## **4. Conclusion: The Universal Gradient**
 
-The Solar System serves as a fractal proof of the **Absolute Quadrilogy**. The subtle velocity deviations and the stability of crossing orbits confirm that $G$ is a local efficiency of the **Lattice Baseline ($\eta \approx 10^{82}$)**. As we exit the "Solar Suppression Zone," the recovery of $G$ provides the foundational mechanics for the **Galactic Rotation Curves** and the resolution of the **$10^{122}$ Energy Gap**.
+The Solar System serves as a fractal proof of the **Vortical Gravity framework**. The subtle velocity deviations and the stability of crossing orbits confirm that $G$ is a local efficiency of the **Lattice Baseline ($\eta \approx 10^{82}$)**. As we exit the "Solar Suppression Zone," the recovery of $G$ provides the foundational mechanics for the **Galactic Rotation Curves** and the resolution of the **$10^{122}$ Energy Gap**.
 
 ---
 
