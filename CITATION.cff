@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.2.1
 message: "If you use this research or the Vortical Gravity model, please cite the following papers."
 authors:
   - family-names: "Oh"
@@ -17,5 +17,11 @@ identifiers:
     value: 10.5281/zenodo.19664079
     description: "Paper 2: The Vortical Radius (Black Holes)"
   - type: doi
-    value: 10.5281/zenodo.19682553
-    description: "Paper 3: The Volumetric Vortex (Mechanics)"
+    value: 10.5281/zenodo.19916654
+    description: "Paper 3: The Volumetric Vortex (Mechanics) (v1.0.2)"
+  - type: doi
+    value: 10.5281/zenodo.19786931
+    description: "Paper 4: Resolution of the Emergent Dark Sector the 10^122 (v1.0.1)"
+  - type: doi
+    value: 10.5281/zenodo.19859532
+    description: "Paper 4: Resolution of the Emergent Dark Sector the 10^122 (v1.0.2)"
