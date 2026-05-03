@@ -78,7 +78,7 @@ Pluto travels between $r=29.7$ AU and $r=49.3$ AU. We calculate the **Lattice Re
 - **Inner ($29.7$ AU):** Lattice is suppressed by the Sun ($G \approx G_0$).
 - **Outer ($49.3$ AU):** Lattice recovers toward $G_{max}$.
 
-Using the **$10^3$ Energy Gap** logic, the "extra" grip Pluto feels at the outer edge is:$$\Delta G = G_0 \times (1 + \frac{R_{orbit}}{R_{galactic}} \times 10^{-3})$$ For Pluto, this results in the **+0.125% Velocity Deviation** noted in your report.
+Using the **$10^3$ Energy Gap** logic, the "extra" grip Pluto feels at the outer edge is: $$\Delta G = G_0 \times (1 + \frac{R_{orbit}}{R_{galactic}} \times 10^{-3})$$ For Pluto, this results in the **+0.125% Velocity Deviation** noted in your report.
 
 ## **Step 5: Define the Vortical Repulsion Balance ($F_{vr}$)**
 
