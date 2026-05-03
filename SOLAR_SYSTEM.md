@@ -49,7 +49,7 @@ The 3:2 synchronization between Neptune and Pluto is a **Lattice Resonant Harmon
 3. **Vortical Balancing:** Pluto’s eccentric orbit acts as a probe of the **Gravity Gradient**. It draws from the **$10^3$ Energy Gap** as it moves into the restored lattice of the outer system, requiring a recalibration of its **Vortical Repulsion ($F_{vr}$)**.
 4. **Topological Shield:** This resonance acts as a **Structural Buffer**, preventing chaotic interference in the lattice stiffness and preserving the Solar System’s equilibrium for 13.8 billion years.
 
-## ** Calculation of the 3:2 Lattice Harmonic**
+## **Calculation of the 3:2 Lattice Harmonic**
 
 ## **Step 1: Define the Orbital Frequencies ($f$)**
 
