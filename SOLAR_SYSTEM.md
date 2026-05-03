@@ -40,6 +40,15 @@ When a body like **Pluto** crosses the orbital distance of **Neptune**, it under
 - **Outside Neptune (> 30 AU):** Pluto moves into the **Restored Vacuum**. The lattice bonds tighten, increasing gravitational coupling. Pluto must accelerate its vortical velocity to generate sufficient **Vortical Repulsion** to avoid being pulled into a lower orbit.
 - **Resonant Stability:** The 3:2 resonance between these bodies is a **Lattice Harmonic** that prevents constructive interference of mass-suppression, ensuring 13.8 billion years of stable cross-orbital movement.
 
+## **📊 Summary of the "Crossing" Effect**
+
+| Pluto's Position | Distance | Lattice State | $G$ Efficiency | Orbital Result |
+| --- | --- | --- | --- | --- |
+| **Inside Neptune** | < 30 AU | **Suppressed** | Lower ($\approx G_0$) | Damped Velocity |
+| **Outside Neptune** | > 30 AU | **Restored** | Higher ($> G_0$) | **Enhanced Grip** |
+
+**Pluto** is a living proof of the **Gravity Gradient**. Its orbit is a "staircase" that climbs up and down the lattice stiffness curve. Its survival confirms that the lattice possesses a **Resonant Memory** that prevents collisions through harmonic vibration.
+
 ## **4. Conclusion: The Universal Gradient**
 
 The Solar System serves as a fractal proof of the **Vortical Gravity framework**. The subtle velocity deviations and the stability of crossing orbits confirm that $G$ is a local efficiency of the **Lattice Baseline ($\eta \approx 10^{82}$)**. As we exit the "Solar Suppression Zone," the recovery of $G$ provides the foundational mechanics for the **Galactic Rotation Curves** and the resolution of the **$10^{122}$ Energy Gap**.
