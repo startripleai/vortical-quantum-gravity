@@ -40,6 +40,15 @@ When a body like **Pluto** crosses the orbital distance of **Neptune**, it under
 - **Outside Neptune (> 30 AU):** Pluto moves into the **Restored Vacuum**. The lattice bonds tighten, increasing gravitational coupling. Pluto must accelerate its vortical velocity to generate sufficient **Vortical Repulsion** to avoid being pulled into a lower orbit.
 - **Resonant Stability:** The 3:2 resonance between these bodies is a **Lattice Harmonic** that prevents constructive interference of mass-suppression, ensuring 13.8 billion years of stable cross-orbital movement.
 
+### **The 3:2 Mean Motion Resonance: A Lattice Harmonic Proof**
+
+The resonance between Neptune and Pluto is the Solar System's primary evidence of **Lattice Synchronization**. 
+
+1. **Frequency Lock:** The 3:2 ratio ($3f_P \approx 2f_N$) creates a **Standing Wave** in the local spacetime fabric.
+2. **Suppression Avoidance:** This harmonic ensures that the **Local Stiffness Inflation** of Neptune and the inflation of Pluto never occupy the same lattice coordinates during their closest approach.
+3. **Vortical Balancing:** Pluto's eccentric path is a "Lattice Pulse" that draws energy from the **$10^3$ Energy Gap** at aphelion and sheds it via **Vortical Repulsion** at perihelion.
+4. **Stability:** The resonance is a **Topological Shield** that prevents the "Structural Suppression" of the two planets from collapsing into a singular chaotic zone.
+
 ## **📊 Summary of the "Crossing" Effect**
 
 | Pluto's Position | Distance | Lattice State | $G$ Efficiency | Orbital Result |
