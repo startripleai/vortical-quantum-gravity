@@ -13,8 +13,8 @@
 1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.19652476)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
 2. **[The Vortical Radius](https://doi.org/10.5281/zenodo.19664079)**: Resolution of singularities and the 50% suppression of $r_s$.
 3. **[The Volumetric Vortex](https://doi.org/10.5281/zenodo.19916654)**: Replacement of the 2D Holographic Principle with a 3D Volumetric Vortex Shell.
-4. **[The Emergent Dark Sector (v1.0.1)](https://doi.org/10.5281/zenodo.19786931)**: Resolution of the Emergent Dark Sector.
-5.  **[The Emergent Dark Sector (v1.0.2)](https://doi.org/10.5281/zenodo.19859532)**: Resolution of the Emergent Dark Sector.
+4. **[The Emergent Dark Sector (v1.0.1)](https://doi.org/10.5281/zenodo.19786931)**: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem.
+5.  **[The Emergent Dark Sector (v1.0.2)](https://doi.org/10.5281/zenodo.19859532)**: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem.
              
 # vortical-quantum-gravity
 A renormalization-free discrete quantum gravity model based on the vortical phase transition of light and variable coupling constants.
