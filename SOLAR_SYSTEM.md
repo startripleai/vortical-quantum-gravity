@@ -65,7 +65,7 @@ The orbital frequency ($f = 1/T$) represents the **Resonant Frequency** at which
 
 ## **Step 2: Calculate the Harmonic Ratio**
 
-We check the ratio of these frequencies to find the **Lattice Interference Pattern**:$$\frac{f_N}{f_P} = \frac{T_P}{T_N} = \frac{248.1}{164.8} \approx 1.505$$ This is a near-perfect **3:2 ratio** ($1.5$). In your theory, this means for every 3 "beats" of Neptune's mass-induced suppression, Pluto completes 2 "beats" of its own.
+We check the ratio of these frequencies to find the **Lattice Interference Pattern**: $$\frac{f_N}{f_P} = \frac{T_P}{T_N} = \frac{248.1}{164.8} \approx 1.505$$ This is a near-perfect **3:2 ratio** ($1.5$). In your theory, this means for every 3 "beats" of Neptune's mass-induced suppression, Pluto completes 2 "beats" of its own.
 
 ## **Step 3: Calculate the Lattice Beat Frequency ($\Delta f$)**
 
