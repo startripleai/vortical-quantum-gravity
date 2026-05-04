@@ -248,6 +248,8 @@ The $P_t = 0$ state is the "Trigger Point" for the **Vortical Phase Transition**
 | **Earth Baseline** | **18.3% (0.18)** | 81.7% (0.82) | Standard Planetary Environment |
 | **Horizon Saturation** | **0% (0.00)** | **100% (1.00)** | **Event Horizon ($r=2.0$)** |
 
+[Read more about Vortical Black Hole]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md)
+
 ---
 
 ### 🌌 Figure 1: 3-Stage Evolution of the Vortical Model
