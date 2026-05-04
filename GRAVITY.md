@@ -171,6 +171,8 @@ This transition facilitates the emergence of the **Vortical Void**—a central r
 
 Consequently, the black hole is revealed not as a point of infinite density, but as a **stabilized vortical engine** that preserves the integrity of the discrete lattice through perpetual rotation and central vacuum recovery.
 
+---
+
 ## **📑 Mass: Lattice Damping and Structural Resistance**
 
 In the **Vortical Gravity framework**, Mass is defined as the **Measurable Lattice Workload**—the structural resistance imposed by a stable vortical resonance (particle) upon the surrounding spacetime manifold. It is the physical manifestation of the **Probability Invariance Identity**: $P_t^2 + P_{\theta}^2 = 1$.
