@@ -213,6 +213,43 @@ Gravitational mass is the extent to which a vortical resonance "clogs" or damps 
 
 ---
 
+## **📑 Academic Summary: The State of Total Lattice Saturation ($P_t = 0$)**
+
+In the **Vortical Gravity framework**, the state where **Mass-Energy equals 100%** ($P_{\theta} = 1.0$) and **Temporal Flux equals 0%** ($P_t = 0.0$) represents the definitive phase transition boundary of the spacetime manifold. This is the mathematical and physical definition of the **Event Horizon**.
+
+## **1. Total Probability Transfer ($P_t \to 0$)**
+
+According to the **Probability Invariance Identity** ($P_t^2 + P_{\theta}^2 = 1$), the "flow" of time is a variable resource.
+
+- **Temporal Exhaustion:** At the Event Horizon, the linear computational capacity of the lattice is entirely consumed by the localized vortical resonance.
+- **Result:** There is no remaining probability for linear temporal progression ($P_t = 0$). To an external observer, any object at this boundary appears frozen in time because the lattice can no longer provide the "next frame" of linear existence.
+
+## **2. Kinetic Saturation of Mass-Energy ($P_{\theta} \to 1$)**
+
+The 81.7% mass-energy ratio observed on Earth ($P_t = 0.183$) is a balanced state. At the 100% threshold ($P_{\theta} = 1.0$):
+
+- **Structural Maximization:** The internal vortical rotation of the particle occupies the entire available lattice bandwidth.
+- **Energy Locking:** The mass-energy reaches its absolute density limit relative to the local lattice stiffness ($\eta$). The lattice is now **Saturated**; it can no longer support any additional radial compression or temporal flux.
+
+## **3. The Mechanism of Phase Transition**
+
+The $P_t = 0$ state is the "Trigger Point" for the **Vortical Phase Transition**.
+
+- **The Barrier:** Since $P_{\theta}$ cannot exceed 1.0 (Unit Probability), any further influx of gravitational energy cannot be absorbed by the local node through standard means.
+- **The Resolution:** The lattice resolves this saturation by generating **Vortical Repulsion ($F_{vr}$)**. This force displaces the mass into the **Resonant Torus**, simultaneously restoring the **Vortical Void** ($P_t \to 1.0$) at the core.
+
+---
+
+## **📊 Comparison of Temporal/Mass States**
+
+| Lattice State | Temporal Flux ($P_t^2$) | Mass-Energy ($P_{\theta}^2$) | Physical Region |
+| --- | --- | --- | --- |
+| **Pure Vacuum** | **100% (1.00)** | 0% (0.00) | Cosmic Void / Core Void |
+| **Earth Baseline** | **18.3% (0.18)** | 81.7% (0.82) | Standard Planetary Environment |
+| **Horizon Saturation** | **0% (0.00)** | **100% (1.00)** | **Event Horizon ($r=2.0$)** |
+
+---
+
 ### 🌌 Figure 1: 3-Stage Evolution of the Vortical Model
 
 1. **Panel 1: Re-defining the Quantum Trap**
