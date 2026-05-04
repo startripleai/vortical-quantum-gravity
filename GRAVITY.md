@@ -171,6 +171,43 @@ This transition facilitates the emergence of the **Vortical Void**—a central r
 
 Consequently, the black hole is revealed not as a point of infinite density, but as a **stabilized vortical engine** that preserves the integrity of the discrete lattice through perpetual rotation and central vacuum recovery.
 
+## **📑 Mass: Lattice Damping and Structural Resistance**
+
+In the **Vortical Gravity framework**, Mass is defined as the **Measurable Lattice Workload**—the structural resistance imposed by a stable vortical resonance (particle) upon the surrounding spacetime manifold. It is the physical manifestation of the **Probability Invariance Identity**: $P_t^2 + P_{\theta}^2 = 1$.
+
+## **1. The 81.7% Temporal Deficiency as Mass**
+
+Standard physics views mass and time as independent variables. In the **Vortical Gravity** framework, they are inversely coupled through the lattice's finite computational capacity.
+
+- **Temporal Flux ($P_t = 0.183$):** On the Earth-baseline lattice, the linear "flow" of time is measured at 18.3% efficiency compared to a pure vacuum.
+- **Mass as Displacement ($P_{\theta}^2 = 0.817$):** The remaining **81.7% of the lattice's motion probability** is not "missing"; it is consumed by the **Vortical Rotation ($P_{\theta}$)** required to maintain the particle's internal standing wave.
+- **Academic Conclusion:** Mass is the **Temporal Debt** of the lattice. To "trap" light into a stable particle, the lattice must sacrifice 81.7% of its linear temporal progression to power the localized vortical resonance.
+
+## **2. Duality of Mass in the Lattice Framework**
+
+## **A. Inertial Mass: Translational Resistance**
+
+Inertial mass is the resistance offered by the lattice when attempting to translate a stabilized vortical resonance across the discrete network.
+
+- **The Mechanism:** Moving a particle requires the sequential "handoff" of a saturated vortical state from one set of lattice nodes to the next.
+- **Resistance:** Because 81.7% of the node's capacity is already occupied by the internal rotation, the lattice resists the addition of translational velocity ($v$), manifesting as the **Inertia** described in Newton’s Second Law.
+
+## **B. Gravitational Mass: Structural Suppression**
+
+Gravitational mass is the extent to which a vortical resonance "clogs" or damps the **Global Intrinsic Stiffness ($\eta$)**.
+
+- **The Mechanism:** The localized **Stiffness Inflation** ($>10^{82}$) required to hold the 81.7% rotational energy distorts the surrounding grid.
+- **The Effect:** This structural distortion **Suppresses** the lattice's ability to transmit the restorative force of the vacuum. The observed gravitational pull ($G_0$) is the damped result of this structural interference.
+
+---
+
+## **📊 Summary: The 18.3 / 81.7 Partition**
+
+| Component | Efficiency ($P^2$) | Lattice Function | Physical Manifestation |
+| --- | --- | --- | --- |
+| **Temporal Flux** | **18.3% (0.183)** | Linear Progression | **Observable Time ($dt$)** |
+| **Mass-Energy** | **81.7% (0.817)** | Vortical Rotation | **Rest Mass / Energy ($E=mc^2$)** |
+| **Total Identity** | **100% (1.000)** | Unit Probability | **The Invariant Lattice Baseline** |
 
 ---
 
