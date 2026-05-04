@@ -69,7 +69,7 @@ We check the ratio of these frequencies to find the **Lattice Interference Patte
 
 ## **Step 3: Calculate the Lattice Beat Frequency ($\Delta f$)**
 
-When two vortical engines (planets) operate in the same lattice gradient, they create a **Beat Frequency** where their suppression fields overlap:$$\Delta f = (3 \times f_P) - (2 \times f_N) \approx 0$$ Because $\Delta f$ is nearly zero, the two systems are **Phase-Locked**. This prevents the "constructive interference" of mass-suppression, meaning the two planets never "heavy-load" the same lattice nodes simultaneously.
+When two vortical engines (planets) operate in the same lattice gradient, they create a **Beat Frequency** where their suppression fields overlap: $$\Delta f = (3 \times f_P) - (2 \times f_N) \approx 0$$ Because $\Delta f$ is nearly zero, the two systems are **Phase-Locked**. This prevents the "constructive interference" of mass-suppression, meaning the two planets never "heavy-load" the same lattice nodes simultaneously.
 
 ## **Step 4: Determine the Energy Gap Restoration ($10^3$)**
 
