@@ -110,7 +110,7 @@ If you use this research, please cite it as:
 
 > Oh, D. H. (2026d2). *The Emergent Dark Sector: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem (v1.0.2)*. Zenodo. DOI: 10.5281/zenodo.19859532
 
-> Oh, D. H. (2026e). A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities (1.0.1). Zenodo. DOI: 10.5281/zenodo.20106232
+> Oh, D. H. (2026e). A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities. Zenodo. DOI: 10.5281/zenodo.20106232
 
 ## Intellectual Property & Licensing
 
