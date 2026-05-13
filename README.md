@@ -38,7 +38,7 @@ This repository hosts the manuscript, simulation engine, and numerical datasets 
 
 ## 📊 Numerical Validation: Galactic Rotation Dynamics (v1.0.2)
 
-The VLD simulation engine resolves the "Dark Matter" anomaly by treating the gravitational constant ($G$) as a dynamic efficiency variable. The following results are synchronized with Paper IV (Table 5), utilizing Gaia DR3 kinematic data and high-resolution HI (21cm) surveys:
+The VLD simulation engine resolves the "Dark Matter" anomaly by treating the gravitational constant ($G$) as a dynamic efficiency variable. The following results are synchronized with Paper IV-1 (Table 5), utilizing Gaia DR3 kinematic data and high-resolution HI (21cm) surveys:
 
 |Target Galaxy|Radial Boundary ($R$)|Baryonic Density ($\rho$)|$G$ Recovery ($G_{eff}/G_0$)|Vortical Velocity (Predicted)|
 |---|---|---|---|---|
