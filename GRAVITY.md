@@ -50,9 +50,7 @@ Figure 1 illustrates the three-stage progression of energy within the discrete m
 
 ---
 
-## 📑 Figure 1 Caption (Manuscript Standard)
-
-Figure 1. The Lifecycle of Vortical Gravity.  
+## The Lifecycle of Vortical Gravity.  
 (1) Mass Genesis: EM-flux is trapped within discrete Planckian nodes, establishing the fundamental vortical resonance.  
 (2) Lattice Suppression: The macroscopic accumulation of mass leads to the functional damping of global intrinsic stiffness ($G_0$).  
 (3) Singularity Resolution: Relativistic rotation at the terminal collapse limit generates an outward vortical repulsion, facilitating Central Restitution. This creates a central Vortical Void, effectively replacing the divergent density of a mathematical singularity with a stabilized, high-efficiency vacuum core.
