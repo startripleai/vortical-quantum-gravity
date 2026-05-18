@@ -1,4 +1,4 @@
-## 🌌 GRAVITY: Stiffness vs. Damping Philosophy
+## 🌌 GRAVITY
 
 In the Vortical Lattice Dynamics (VLD) framework, Gravity ($G$) is not an independent fundamental force but the measurable Restorative Efficiency of the spacetime manifold as it attempts to maintain its cosmic ground state.
 
