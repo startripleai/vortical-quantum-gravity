@@ -5,7 +5,7 @@ This document serves as a technical repository manual outlining the defense vect
 ---
 
 ## 🛑 Criticism 1: Violation of Lorentz Invariance in Discrete Spacetime
-> **Reviewer Objection:** *"Any theory that introduces a discrete lattice or a fundamental length/time scale ($l_p, dt$) inherently breaks Lorentz covariance. This introduces a preferred background frame (an 'aether') that directly contradicts high-precision Michelson-Morley-type experiments and modern Lorentz symmetry tests."*
+> **Reviewer Objection:** "Any theory that introduces a discrete lattice or a fundamental length/time scale ($l_p, dt$) inherently breaks Lorentz covariance. This introduces a preferred background frame (an 'aether') that directly contradicts high-precision Michelson-Morley-type experiments and modern Lorentz symmetry tests."
 
 ### 🚀 VLD Defense Strategy:
 * **The Isotropic Hydrodynamic Limit:** VLD does not treat the lattice as a rigid, static scaffolding through which particles move. Instead, the discrete tensor network is a hyper-elastic, high-stiffness medium ($\eta \approx 10^{82}$). In the low-energy macroscopic limit ($l_p \to 0$, $dt \to 0$), individual discrete state-transfers average out smoothly into an isotropic continuum wave equation. 
