@@ -1,4 +1,4 @@
-# GRAVITY.md: Mathematical Foundations of Holonomy-Induced Lattice Stress
+# Mathematical Foundations of Holonomy-Induced Lattice Stress
 
 This document outlines the rigorous mathematical and field-theoretic architecture of the **Vortical Lattice Dynamics (VLD)** framework. It details the micro-to-macro mapping of the **Massless Topological Quantum Info-Fluid**, formalizing how continuous spacetime curvature emerges from the localized resource-allocation constraints of a discrete tensor network.
 
