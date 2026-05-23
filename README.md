@@ -9,7 +9,7 @@
 | **Paper 4.1** | The Emergent Dark Sector (v1.0.1) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19786931.svg)](https://doi.org/10.5281/zenodo.19786931) |
 | **Paper 4.2** | The Emergent Dark Sector (v1.0.2) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859532.svg)](https://doi.org/10.5281/zenodo.19859532) |
 | **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20106232.svg)](https://doi.org/10.5281/zenodo.20106232) |
-| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20312170.svg)](https://doi.org/10.5281/zenodo.20312170) |
+| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20312170.svg)](https://doi.org/10.5281/zenodo.20353758) |
 
 ## Publications
 1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.20139615)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
@@ -18,7 +18,7 @@
 4. **[The Emergent Dark Sector (v1.0.1)](https://doi.org/10.5281/zenodo.19786931)**: Spacetime Lattice Interference and the Non-Particle Resolution of the $10^{122}$ Cosmological Constant Problem.
 5. **[The Emergent Dark Sector (v1.0.2)](https://doi.org/10.5281/zenodo.19859532)**: Spacetime Lattice Interference and the Non-Particle Resolution of the $10^{122}$ Cosmological Constant Problem.
 6. **[The Vortical Lattice Dynamics (VLD)](https://doi.org/10.5281/zenodo.20106232)**: A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities.
-7. **[The Emergent Spacetime-Matter Continuum](https://doi.org/10.5281/zenodo.20312170)**: The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics.
+7. **[The Emergent Spacetime-Matter Continuum](https://doi.org/10.5281/zenodo.20353758)**: The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics.
              
 
 ## Vortical Lattice Dynamics (VLD): A Discrete Quantum Gravity Model
@@ -113,7 +113,7 @@ If you use this research, please cite it as:
 
 > Oh, D. H. (2026e). A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities. Zenodo. DOI: 10.5281/zenodo.20106232
 
-> Oh, D. H. (2026). The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20312170
+> Oh, D. H. (2026). The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20353758
 
 ## Intellectual Property & Licensing
 
