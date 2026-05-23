@@ -33,9 +33,10 @@ Let $C_{\mu\alpha}(x)$ represent an infinitesimal rectangular loop of area $a^2$
 $$\hat{\mathcal{W}}_{\mu\nu}(x) \equiv \lim_{a \to 0} \frac{-1}{a^4} g^{\alpha\beta}(x) \cdot \text{Tr} \left[ \left( \hat{W}[C_{\mu\alpha}(x)] - \mathbb{I} \right) \left( \hat{W}[C_{\beta\nu}(x)] - \mathbb{I} \right) \right]$$
 
 By expanding the path-ordered holonomies to fourth order in the lattice resolution scale ($\mathbb{I} + ia^2 F_{\mu\alpha} - \frac{1}{2}a^4 F_{\mu\lambda}F^\lambda_{\,\,\alpha} + \dots$), the linear terms cancel via the trace identity of the non-Abelian generators ($\text{Tr}(T^a) = 0$). The surviving lowest-order term naturally yields the exact, general coordinate invariant symmetric tensor contraction across the contravariant metric components:
-\begin{equation}
-\hat{\mathcal{W}}_{\mu\nu}(x) = g^{\alpha\beta}(x) \cdot F_{\mu\alpha}^a(x) F_{\beta\nu}^a(x) + \mathcal{O}(a^2) \equiv F_{\mu\alpha}^a F^{\alpha a}_{\,\,\,\,\nu} + \mathcal{O}(a^2) \tag{6}
-\end{equation}
+
+
+$$\hat{\mathcal{W}}_{\mu\nu}(x) = g^{\alpha\beta}(x) \cdot F_{\mu\alpha}^a(x) F_{\beta\nu}^a(x) + \mathcal{O}(a^2) \equiv F_{\mu\alpha}^a F^{\alpha a}_{\,\,\,\,\nu} + \mathcal{O}(a^2) $$
+
 
 
 Expanding the path-ordered holonomies to fourth order in the lattice resolution scale ($\mathbb{I} + ia^2 F_{\mu\alpha} - \frac{1}{2}a^4 F_{\mu\lambda}F^\lambda_{\,\,\alpha} + \dots$) forces the linear terms to cancel via the trace identity of the non-Abelian generators ($\text{Tr}(T^a) = 0$). The surviving lowest-order term naturally yields the exact, general coordinate invariant symmetric tensor contraction:
