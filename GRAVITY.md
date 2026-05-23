@@ -28,7 +28,7 @@ $$P_t = \sqrt{1 - (P_x^2 + P_y^2 + P_z^2)} \equiv \frac{1}{\gamma_L}$$
 To maintain a strictly gauge-invariant quantum description of gravitation, the continuous energy-momentum tensor $T_{\mu\nu}$ is replaced by a discrete, topological operator. We introduce the macroscopic **Lattice Stress Matrix ($X_{\mu\nu}$)** as the direct projection of the expectation values of closed, path-ordered holonomies circulating within the info-fluid substrate.
 
 ### 2.1 The Gauge Loop Observable via Infinitesimal Plaquettes
-Let $C_{\mu\alpha}(x)$ represent an infinitesimal rectangular loop of area $a^2$ oriented in the $\mu$-$\alpha$ plane. The gauge-covariant representation of the lattice response requires a rigorous tensor contraction over all intermediate topological orientations mapped dynamically by the contravariant metric tensor $g^{\alpha\beta}(x)$:
+Let $C_{\mu\alpha}(x)$ represent an infinitesimal rectangular loop of area $a^2$ oriented in the $\mu$ - $\alpha$ plane. The gauge-covariant representation of the lattice response requires a rigorous tensor contraction over all intermediate topological orientations mapped dynamically by the contravariant metric tensor $g^{\alpha\beta}(x)$:
 
 $$\hat{\mathcal{W}}_{\mu\nu}(x) \equiv \lim_{a \to 0} \frac{-1}{a^4} g^{\alpha\beta}(x) \cdot \text{Tr} \left[ \left( \hat{W}[C_{\mu\alpha}(x)] - \mathbb{I} \right) \left( \hat{W}[C_{\beta\nu}(x)] - \mathbb{I} \right) \right]$$
 
