@@ -25,8 +25,8 @@ The following matrix contrasts the foundational equations under a static, spheri
 | **Primary Field Action** | $\mathcal{S} = \int d^4x \sqrt{-g} \left[ \frac{R}{16\pi G_0} \right]$ | $\mathcal{S} = \int d^4x \sqrt{-g} \left[ \frac{e^{-\psi}}{16\pi G_0} R - \frac{\omega_0}{2} (\nabla\psi)^2 \right]$ |
 | **Gravitational Coupling** | Immutable Background Scalar ($G_0$) | Dynamic Lattice Scalar Field ($\psi \equiv \ln[G_{\text{eff}}/G_0]$) |
 | **Divergence Control** | Linear Continuum (Fails at $r \to 0$) | Non-Linear Saturation Filter ($\gamma \approx 0.85$, $\eta \approx 10^{82}$) |
-| **Vacuum 장 방정식 (Radial Component 1)** | $\frac{1}{r^2}\frac{d}{dr}\left(r\left(1 - \frac{1}{A(r)}\right)\right) = 0$ | $\frac{1}{r^2}\frac{d}{dr}\left(r\left(1 - \frac{1}{A}\right)\right) = -\frac{1}{2A}\left( \psi'' + \frac{2}{r}\psi' - \frac{A'}{2A}\psi' \right)$ <br> **[Equation (15)]** |
-| **Vacuum 장 방정식 (Radial Component 2)** | $\frac{1}{A(r)r}\left(\frac{B'(r)}{B(r)} + \frac{1}{r}\right) - \frac{1}{r^2} = 0$ | $\frac{1}{Ar}\left(\frac{B'}{B} + \frac{1}{r}\right) - \frac{1}{r^2} = \frac{1}{A}\left( \psi'' - \frac{A'}{2A}\psi' + \frac{B'}{2B}\psi' \right)$ <br> **[Equation (16)]** |
+| **Vacuum Field Equation (Radial Component 1)** | $\frac{1}{r^2}\frac{d}{dr}\left(r\left(1 - \frac{1}{A(r)}\right)\right) = 0$ | $\frac{1}{r^2}\frac{d}{dr}\left(r\left(1 - \frac{1}{A}\right)\right) = -\frac{1}{2A}\left( \psi'' + \frac{2}{r}\psi' - \frac{A'}{2A}\psi' \right)$ <br> **[Equation (15)]** |
+| **Vacuum Field Equation (Radial Component 2)** | $\frac{1}{A(r)r}\left(\frac{B'(r)}{B(r)} + \frac{1}{r}\right) - \frac{1}{r^2} = 0$ | $\frac{1}{Ar}\left(\frac{B'}{B} + \frac{1}{r}\right) - \frac{1}{r^2} = \frac{1}{A}\left( \psi'' - \frac{A'}{2A}\psi' + \frac{B'}{2B}\psi' \right)$ <br> **[Equation (16)]** |
 
 ---
 
