@@ -44,7 +44,11 @@ As the primordial lattice begins its restorative expansion, the dilution of the 
 $$\frac{\dot{G}_{eff}}{G_{eff}} = 3\gamma H(a) \left[ \frac{\left( \eta \frac{\rho(a)}{\rho_P} \right)^\gamma}{1 + \left( \eta \frac{\rho(a)}{\rho_P} \right)^\gamma} \right] \equiv 3\gamma H(a) \cdot \mathcal{S}(a)$$
 
 ### 2.2 Super-Acoustic Horizon Equalization
-During the epoch where the universe expands from $a_{\text{min}}$ to the radiation-coupling boundary, the structural relaxation derivative component ($ \frac{1}{2}\frac{\ddot{G}_{eff}}{G_{eff}} $) acts as a massive positive feedback operator within the Second Modified Friedmann Equation:
+During the epoch where the universe expands from $a_{\text{min}}$ to the radiation-coupling boundary, the structural relaxation derivative component 
+
+$ \frac{1}{2}\frac{\ddot{G}_{eff}}{G_{eff}} $ 
+
+acts as a massive positive feedback operator within the Second Modified Friedmann Equation:
 
 $$\frac{\ddot{a}}{a} = -\frac{4\pi G_{eff}(a)}{3}\left(\rho + 3P_{eff}\right) + \frac{1}{2}\frac{\ddot{G}_{eff}}{G_{eff}}$$
 
