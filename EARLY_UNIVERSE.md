@@ -46,7 +46,7 @@ $$\frac{\dot{G}_{eff}}{G_{eff}} = 3\gamma H(a) \left[ \frac{\left( \eta \frac{\r
 ### 2.2 Super-Acoustic Horizon Equalization
 During the epoch where the universe expands from $a_{\text{min}}$ to the radiation-coupling boundary, the structural relaxation derivative component 
 
-$ \frac{1}{2}\frac{\ddot{G}_{eff}}{G_{eff}} $ 
+$$\frac{1}{2}\frac{\ddot{G}_{eff}}{G_{eff}}$$ 
 
 acts as a massive positive feedback operator within the Second Modified Friedmann Equation:
 
