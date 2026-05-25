@@ -8,7 +8,9 @@ This document provides a first-principles mathematical breakdown of the non-pert
 In standard perturbative quantum general relativity about a smooth background, the graviton propagator scales as $D(k) \propto 1/k^2$. Concurrently, the momentum-dependent $n$-point self-interaction vertices introduce derivative couplings scaling as $k^2$. 
 
 At the one-loop level, the combinations of two standard vertices and two internal lines generate an ultraviolet divergence that flows uncontrollably as the loop momentum approaches infinity ($k \to \infty$):
-$$I_{\text{loop}} = \int^{\infty}_{0} d^4k \frac{k^2 \cdot k^2}{(k^2)(k^2)} = \int^{\infty}_{0} d^4k \cdot (1) \sim \int^{\infty}_{0} k^3 \, dk \to \infty$$
+
+$I_{\text{loop}} = \int^{\infty}_{0} d^4k \frac{k^2 \cdot k^2}{(k^2)(k^2)} = \int^{\infty}_{0} d^4k \cdot (1) \sim \int^{\infty}_{0} k^3 \, dk \to \infty$
+
 This $k^3$ integration divergence represents the standard non-renormalizable quartic UV catastrophe.
 
 ---
