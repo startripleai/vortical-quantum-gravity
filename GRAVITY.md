@@ -38,7 +38,7 @@ $$\hat{\mathcal{W}}_{\mu\nu}(x) \equiv -g^{\alpha\beta}(x) \cdot \text{Tr} \left
 
 Evaluating the non-Abelian trace identity ($\text{Tr}(T^a T^b) = \frac{1}{2}\delta^{ab}$) under the un-knotted loop limit ($\hat{W}[\mathcal{C}] \to \mathbb{I}$) reveals that the functional loop space variation maps identically to the symmetric field strength tensor contraction:
 
-$$\hat{\mathcal{W}}_{\mu\nu}(x) = g^{\alpha\beta}(x) \cdot F_{\mu\alpha}^a(x) F_{\beta\nu}^a(x) \equiv F_{\mu\alpha}^a F^{\alpha a}_{\,\,\,\,\nu}$$
+$$\hat{\mathcal{W}}_{\mu\nu}(x) = g^{\alpha\beta}(x) \cdot F_{\mu\alpha}^a(x) F_{\beta\nu}^a(x) \equiv F_{\mu\alpha}^a F^{\alpha a}_{\ \ \ \ \nu}$$
 
 ### 2.2 Dimensional Homogeneity of the Stress Matrix $X_{\mu\nu}$
 The macroscopic tensor $X_{\mu\nu}$ represents the directional structural load imposed upon the hyper-elastic medium. We couple the scalar knottiness density $\mathcal{Q}(x)$ directly to the energy-momentum contribution of the topological info-fluid, ensuring that all constituents within the core bracket possess identical dimensions of $\text{length}^{-4}$:
