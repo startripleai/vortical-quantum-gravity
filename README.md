@@ -37,23 +37,6 @@ This repository hosts the manuscript, simulation engine, and numerical datasets 
 
 ---
 
-## 📊 Numerical Validation: Galactic Rotation Dynamics (v1.0.2)
-
-The VLD simulation engine resolves the "Dark Matter" anomaly by treating the gravitational constant ($G$) as a dynamic efficiency variable. The following results are synchronized with Paper IV-1 (Table 5), utilizing Gaia DR3 kinematic data and high-resolution HI (21cm) surveys:
-
-|Target Galaxy|Radial Boundary ($R$)|Baryonic Density ($\rho$)|$G$ Recovery ($G_{eff}/G_0$)|Vortical Velocity (Predicted)|
-|---|---|---|---|---|
-|Milky Way|25 kpc|$6.31 \times 10^{-23} \, \text{kg/m}^3$|2.885|173.1 km/s|
-|Andromeda (M31)|30 kpc|$9.12 \times 10^{-23} \, \text{kg/m}^3$|2.051|210.7 km/s|
-|Triangulum (M33)|15 kpc|$2.44 \times 10^{-23} \, \text{kg/m}^3$|5.463 ($G_{max}$)|88.8 km/s|
-
-## 🔍 Kinematic Analysis
-
-- M33 (The Restored Limit): At ultra-low densities ($\sim 10^{-24}$), the manifold achieves its pristine vacuum potential, where $G_{eff} \to G_{max} \approx 5.46 G_0$. This eliminates the need for non-baryonic halos in low-surface-brightness environments.
-- MW/M31 (Partial Suppression): The intermediate mass-densities at 25–30 kpc maintain partial structural damping of the lattice, yielding precise velocity matches consistent with the Radial Acceleration Relation (RAR).
-
----
-
 ## Mechanical Philosophy
 
 For a comprehensive derivation of the Stiffness vs. Damping mechanism and the Probability Invariance Identity ($P_t^2 + P_{\theta}^2 = 1$), refer to:
