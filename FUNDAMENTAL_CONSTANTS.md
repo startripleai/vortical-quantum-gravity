@@ -65,7 +65,7 @@ To ensure the framework reproduces standard General Relativity inside the solar 
 
 ### 3.1 The Dynamic Coupling State Equation
 
-The effective gravitational constant ($G_{\text{eff}}$) at any coordinate point is regulated by the trace of the holonomy stress matrix (Tr ($X_{\alpha\beta}$):
+The effective gravitational constant ($G_{\text{eff}}$) at any coordinate point is regulated by the trace of the holonomy stress matrix (Tr($X_{\alpha\beta}$)):
 
 $$G_{\text{eff}}(X) = \frac{G_{\text{max}}}{1 + \left[ \text{Tr}(X_{\alpha\beta}) \right]^\gamma}$$
 
