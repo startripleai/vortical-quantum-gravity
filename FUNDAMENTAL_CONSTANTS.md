@@ -30,10 +30,7 @@ $$\gamma \equiv 0.85$$
 
 ## 2. Derivation of the Unsuppressed Vacuum Baseline ($G_{\text{max}}$)
 
-In the VLD framework, the gravitational constant is not an immutable scalar, but a dynamic efficiency variable. The laboratory value $G_0$ is a heavily damped state caused by baryonic matter clogging the elastic nodes. In deep cosmic voids, gravity recovers its true, unsuppressed baseline potential 
-
-$G_{\text{max}}$
-
+In the VLD framework, the gravitational constant is not an immutable scalar, but a dynamic efficiency variable. The laboratory value $G_0$ is a heavily damped state caused by baryonic matter clogging the elastic nodes. In deep cosmic voids, gravity recovers its true, unsuppressed baseline potential ($G_{\text{max}}$).
 ### 2.1 The Nodal Resource Budget and Terrestrial Efficiency
 
 From the **Pythagorean Conservation Law**, a lattice node must partition its fixed evolutionary capacity between linear temporal progression ($P_t$) and spatial/vortical rotation ($P_\theta$):
