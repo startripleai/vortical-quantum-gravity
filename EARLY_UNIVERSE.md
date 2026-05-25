@@ -6,7 +6,7 @@ This document details the cosmological evolution, high-density initial condition
 
 ## 1. The Primordial Initial State: The Maximum Saturated Lattice
 
-In standard $\Lambda$CDM cosmology, tracing the cosmic expansion backward in time ($t \to 0$) leads to an inevitable initial singularity where the scale factor vanishes ($a \to 0$), forcing the matter-energy density and spacetime curvature to diverge to infinity ($\rho \to \infty, R \to \infty$). 
+In standard $\Lambda$ CDM cosmology, tracing the cosmic expansion backward in time ($t \to 0$) leads to an inevitable initial singularity where the scale factor vanishes ($a \to 0$), forcing the matter-energy density and spacetime curvature to diverge to infinity ($\rho \to \infty, R \to \infty$). 
 
 The VLD framework eliminates this initial singularity by establishing that the early universe is bounded by the **Intrinsic Manifold Stiffness ($\eta \approx 10^{82}$)** and the **Unitary Probability Constraint** operating at the hardware layer of the discrete tensor network.
 
