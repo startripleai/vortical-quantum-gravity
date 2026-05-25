@@ -1,6 +1,6 @@
 # Technical Note: Microscopic Phase-Locking and Core Metric Field Equations Comparison
 
-This document isolates the exact mathematical and field-theoretic distinctions between **Vortical Lattice Dynamics (VLD)** and standard **General Relativity (GR)**. It highlights how the microscopic phase-locking of path-ordered holonomy filaments generates the non-linear metric corrections derived in VLD Equations (15) and (16) https://doi.org/10.5281/zenodo.20379287.
+This document isolates the exact mathematical and field-theoretic distinctions between **Vortical Lattice Dynamics (VLD)** and standard **General Relativity (GR)**. It highlights how the microscopic phase-locking of path-ordered holonomy filaments generates the non-linear metric corrections derived in VLD Equations (15) and (16) of [The Emergent Spacetime-Matter Continuum](https://doi.org/10.5281/zenodo.20379287).
 
 ---
 
