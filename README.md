@@ -14,10 +14,9 @@
 1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.20139615)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
 2. **[The Vortical Radius](https://doi.org/10.5281/zenodo.19664079)**: Resolution of singularities and the 50% suppression of $r_s$.
 3. **[The Volumetric Vortex](https://doi.org/10.5281/zenodo.19916654)**: Replacement of the 2D Holographic Principle with a 3D Volumetric Vortex Shell.
-4. **[The Emergent Dark Sector (v1.0.1)](https://doi.org/10.5281/zenodo.19786931)**: Spacetime Lattice Interference and the Non-Particle Resolution of the $10^{122}$ Cosmological Constant Problem.
-5. **[The Emergent Dark Sector (v1.0.2)](https://doi.org/10.5281/zenodo.19859532)**: Spacetime Lattice Interference and the Non-Particle Resolution of the $10^{122}$ Cosmological Constant Problem.
-6. **[The Vortical Lattice Dynamics (VLD)](https://doi.org/10.5281/zenodo.20106232)**: A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities.
-7. **[The Emergent Spacetime-Matter Continuum](https://doi.org/10.5281/zenodo.20379287)**: The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics.
+4. **[The Emergent Dark Sector](https://doi.org/10.5281/zenodo.19859532)**: Spacetime Lattice Interference and the Non-Particle Resolution of the $10^{122}$ Cosmological Constant Problem.
+5. **[The Vortical Lattice Dynamics (VLD)](https://doi.org/10.5281/zenodo.20106232)**: A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities.
+6. **[The Emergent Spacetime-Matter Continuum](https://doi.org/10.5281/zenodo.20379287)**: The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics.
              
 
 ## Vortical Lattice Dynamics (VLD): A Discrete Quantum Gravity Model
