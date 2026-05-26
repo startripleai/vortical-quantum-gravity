@@ -57,7 +57,7 @@ We evaluate the ultimate fate of the cosmic manifold by tracking the mathematica
 
 $$\lim_{t_{\text{age}} \to \infty} P_{EP}(t_{\text{age}}) = \lim_{t_{\text{age}} \to \infty} \left[ -\rho_P c^2 \left( \frac{t_p}{t_{\text{age}}} \right)^2 \right] = \mathbf{0}$$
 
-*   **Physical Vector:** As $t_{\text{age}} \to \infty$, the vacuum expansion pressure vanishes completely ($P_{EP} \to 0$). Unlike the standard $\Lambda$CDM model—which terminates in an exponential de Sitter expansion that tears apart all bound structures (the Big Rip)—the VLD framework predicts a smooth, asymptotic deceleration and stabilization of the cosmic volume. 
+*   **Physical Vector:** As $t_{\text{age}} \to \infty$, the vacuum expansion pressure vanishes completely ($P_{EP} \to 0$). Unlike the standard $\Lambda$ CDM model—which terminates in an exponential de Sitter expansion that tears apart all bound structures (the Big Rip)—the VLD framework predicts a smooth, asymptotic deceleration and stabilization of the cosmic volume. 
 *   **The Final Equilibrium State:** Once the matter density is infinitely diluted and $P_{EP}$ decays to zero, the lattice returns to its pristine, un-damped ground state. The effective gravitational constant stabilizes globally at $G_{max} = 5.46G_0$, and the universe enters a state of permanent, non-singular topological equilibrium.
 
 ---
