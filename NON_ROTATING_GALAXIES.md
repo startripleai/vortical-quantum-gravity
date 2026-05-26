@@ -69,7 +69,7 @@ $$\lim_{\rho \to \text{low}} M_{\text{apparent}} = \frac{G_{max}}{G_0} M_b \equi
 
 Consequently, the real physical Mass-to-Light ratio $\(M/L)_{\text{real}}$ remains completely aligned with normal standard stellar population synthesis models ( $1 \sim 5 \, M_{\odot}/L_{\odot}$ ):
 
-$$(M/L)_{\text{apparent}} = 5.46320 \cdot (M/L)_{\text{real}}$$
+$$M/L_{\text{apparent}} = 5.46320 \cdot M/L_{\text{real}}$$
 
 The dramatic inflation of the dynamical mass metric inside diffuse pressure-supported structures is proven to be a structural measurement error. It represents the local observer's blindness to the 5.46-fold enhancement of the vacuum's intrinsic gravity, clearing the anomaly without requiring dark matter particle profiles.
 
