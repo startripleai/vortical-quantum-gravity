@@ -36,7 +36,7 @@ VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete
 Deep-dive mathematical sheets and simulation assets are partitioned across specialized modules:
 
 * [`GRAVITY.md`](GRAVITY.md): Governs covariant field transformations, Jordan-frame actions, and lattice strain calculations.
-* [`BLACKHOLE.md`]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md)): Maps interior horizon kinematics, proper velocity matrices, and regularized core geometries.
+* [`BLACKHOLE.md`](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md): Maps interior horizon kinematics, proper velocity matrices, and regularized core geometries.
 * [`LOOP_CONVERGENCE.md`](LOOP_CONVERGENCE.md): Details the $k^{-5.4}$ power-law integration that eliminates ultraviolet loop divergences.
 * [`FUNDAMENTAL_CONSTANTS.md`](FUNDAMENTAL_CONSTANTS.md): Catalogs first-principles derivations for the $5.46$-fold vacuum recovery constant.
 * [`COSMOLOGICAL_CONSTANT_EVOLUTION.md`](COSMOLOGICAL_CONSTANT_EVOLUTION.md): Tracks the quadratic time-horizon attenuation filter $(t_p/t_{\text{age}})^2$.
