@@ -23,7 +23,7 @@ $$\lim_{\rho_b \to 0} G_{eff}(r) = \frac{G_{max}}{1 + [X(r)]^\gamma} \equiv G_{m
 
 ## 2. Modification of the Covariant Jeans Equation
 
-To compute the explicit velocity dispersion profiles ($\sigma(r)$) of a non-rotating system without invoking non-baryonic dark matter halos, we modify the classical, spherically symmetric **Jeans Equation** by substituting the static Newtonian constant $G_0$ with the dynamic VLD field variable $G_{eff}(r)$.
+To compute the explicit velocity dispersion profiles ( $\sigma(r)$ ) of a non-rotating system without invoking non-baryonic dark matter halos, we modify the classical, spherically symmetric **Jeans Equation** by substituting the static Newtonian constant $G_0$ with the dynamic VLD field variable $G_{eff}(r)$.
 
 ### 2.1 The Modified Hydrostatic Equilibrium Matrix
 For a steady-state spherical stellar system characterized by a tracer density distribution $\nu(r)$ and a total baryonic mass profile $M_b(r)$, the general coordinate invariant equation of hydrostatic equilibrium is formulated as:
