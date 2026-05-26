@@ -13,12 +13,12 @@ VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete
 
 | Publication Component | Academic Title | Permanent Digital Anchor |
 | :--- | :--- | :--- |
-| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.20139615)) |
-| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)) |
-| **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.19916654)) |
-| **Paper 4** | The Emergent Dark Sector | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.19859532)) |
-| **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.20106232)) |
-| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.20379287)) |
+| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20139615.svg)](https://doi.org/10.5281/zenodo.20139615) |
+| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
+| **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19916654.svg)](https://doi.org/10.5281/zenodo.19916654) |
+| **Paper 4** | The Emergent Dark Sector | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859532.svg)](https://doi.org/10.5281/zenodo.19859532) |
+| **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20106232.svg)](https://doi.org/10.5281/zenodo.20106232) |
+| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20379287.svg)](https://doi.org/10.5281/zenodo.20379287) |
 
 ---
 
