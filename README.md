@@ -1,105 +1,94 @@
-# Vortical Quantum Gravity Research Series
-
-
-| Paper | Title | Badge |
-| :--- | :--- | :--- |
-| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20139615.svg)](https://doi.org/10.5281/zenodo.20139615) |
-| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
-| **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19916654.svg)](https://doi.org/10.5281/zenodo.19916654) |
-| **Paper 4** | The Emergent Dark Sector | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859532.svg)](https://doi.org/10.5281/zenodo.19859532) |
-| **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20106232.svg)](https://doi.org/10.5281/zenodo.20106232) |
-| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20379287.svg)](https://doi.org/10.5281/zenodo.20379287) |
-
-## Publications
-1. **[A Discrete Quantum Gravity Model](https://doi.org/10.5281/zenodo.20139615)**: Foundations of the $G_{max}$ vacuum baseline and $10^{82}$ stiffness.
-2. **[The Vortical Radius](https://doi.org/10.5281/zenodo.19664079)**: Resolution of singularities and the 50% suppression of $r_s$.
-3. **[The Volumetric Vortex](https://doi.org/10.5281/zenodo.19916654)**: Replacement of the 2D Holographic Principle with a 3D Volumetric Vortex Shell.
-4. **[The Emergent Dark Sector](https://doi.org/10.5281/zenodo.19859532)**: Spacetime Lattice Interference and the Non-Particle Resolution of the $10^{122}$ Cosmological Constant Problem.
-5. **[The Vortical Lattice Dynamics (VLD)](https://doi.org/10.5281/zenodo.20106232)**: A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities.
-6. **[The Emergent Spacetime-Matter Continuum](https://doi.org/10.5281/zenodo.20379287)**: The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics.
-             
-
-## Vortical Lattice Dynamics (VLD): A Discrete Quantum Gravity Model
+# Vortical Lattice Dynamics (VLD): A Discrete Quantum Gravity Model
 
 A renormalization-free, discrete quantum gravity framework derived from the vortical phase transition of electromagnetic flux and environmentally dependent coupling constants.
 
-## Overview
+---
 
-This repository hosts the manuscript, simulation engine, and numerical datasets for a novel gravitational framework. VLD replaces the continuous spacetime manifold with a discrete lattice of Intrinsic Stiffness ($\eta \approx 10^{82}$), resolving the vacuum energy catastrophe and the singularity paradox through first-principles mechanical damping.
+## 🔬 Research Series Overview
 
-## Core Theoretical Milestones
+VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete lattice of **Intrinsic Stiffness ($\eta \approx 10^{82}$)**, resolving ultraviolet catastrophes and singularity paradoxes through first-principles non-perturbative mechanical damping.
 
-- Singularity Resolution: Replaces mathematical divergences ($1/r$) with stabilized Resonant Toroids and a central Vortical Void.
-- Self-Regulating Finiteness: Provides a non-perturbative derivation of gravitational stalling at the Planck limit, precluding infinite density.
-- Metric Consistency: Reconciled with pulsar timing anomalies and provides a structural solution to the Cosmological Constant Problem ($10^{122}$).
+### 📚 Core Publications Registry
+
+
+| Publication Component | Academic Title | Permanent Digital Anchor |
+| :--- | :--- | :--- |
+| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://shields.io)](https://doi.org) |
+| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://shields.io)](https://doi.org) |
+| **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://shields.io)](https://doi.org) |
+| **Paper 4** | The Emergent Dark Sector | [![DOI](https://shields.io)](https://doi.org) |
+| **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://shields.io)](https://doi.org) |
+| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://shields.io)](https://doi.org) |
 
 ---
 
-## Mechanical Philosophy
+## 🎯 Theoretical Milestones
 
-For a comprehensive derivation of the Stiffness vs. Damping mechanism and the Probability Invariance Identity ($P_t^2 + P_{\theta}^2 = 1$), refer to:
-
-- 📄 GRAVITY.md: The Mechanics of Lattice Restoration
-- 📄 BLACKHOLE.md: Non-Singular Toroidal Topology
-
----
-
-Conclusion: The "Dark Sector" is a measurement of the lattice's Ground-State Restitution. By accounting for the recovery of $\eta$ in low-density space, VLD unifies galactic rotation and local gravity into a single, computable mechanical system.
-
-
-![Vortical Results](vortical_results.png)
-
-[Read more about Vortical Gravity Simulation Engine]([README.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/README.md)
+* **Singularity Resolution:** Replaces $1/r$ coordinate infinities with stabilized Resonant Toroids enclosing a central Vortical Void.
+* **Self-Regulating Finiteness:** Provides non-perturbative mathematical equations for gravitational stalling at the Planck density limit.
+* **Metric Consistency:** Reconciles cosmological data with pulsar timing anomalies and solves the $10^{122}$ Vacuum Catastrophe.
+* **Ground-State Restitution:** Unifies local gravity metrics and flat galactic rotation curves into a single computable field equations matrix.
 
 ---
 
+## 🛠️ Repository Architecture & Documentation Matrix
 
-## 📢 Version 1.0.2 Update: Formalization of Vortical Repulsion ($F_{vr}$)
+Deep-dive mathematical sheets and simulation assets are partitioned across specialized modules:
 
-In this release, we have formally transitioned our terminology and mathematical modeling of the black hole interior from a classical "Centrifugal" framework to a rigorous "Vortical Repulsion ($F_{vr}$)" mechanism.
-
-## Theoretical Rationale for the Refinement
-
-While "centrifugal force" served as a functional Newtonian analogue in early iterations, it is classically interpreted as a fictitious force arising from an accelerating reference frame. In the Vortical Lattice Dynamics (VLD) framework, the outward pressure is an emergent, objective force necessitated by the discrete manifold’s stress limits:
-
-- Lattice-Scale Reality: $F_{vr}$ is the structural counter-pressure generated by the Unitary Probability Partitioning ($P_t^2 + P_{\theta}^2 = 1$) as the system approaches the Saturation Limit ($X \to 1$).
-- Structural Integrity: Vortical Repulsion describes the active mechanical resistance of the high-stiffness manifold against radial collapse. It provides the Topological Equilibrium required to sustain the Vortical Void (Hollow Core) and prevent the formation of divergent singularities.
-
-## Key Documentation & Repository Updates:
-
-- Paper III (Manuscript): Systematically revised all descriptions of interior dynamics to reflect "Vortical Repulsion" as the primary non-singular mechanism.
-- BLACKHOLE.md: Enhanced the Singularity Resolution section to detail the mechanical potential barrier at the saturation boundary.
-- GRAVITY.md: Refined the Stiffness vs. Damping logic to formally include the vector decomposition of $F_{vr}$ within the discrete tensor network.
+* [`GRAVITY.md`](GRAVITY.md): Governs covariant field transformations, Jordan-frame actions, and lattice strain calculations.
+* [`BLACKHOLE.md`](BLACKHOLE.md): Maps interior horizon kinematics, proper velocity matrices, and regularized core geometries.
+* [`LOOP_CONVERGENCE.md`](LOOP_CONVERGENCE.md): Details the $k^{-5.4}$ power-law integration that eliminates ultraviolet loop divergences.
+* [`FUNDAMENTAL_CONSTANTS.md`](FUNDAMENTAL_CONSTANTS.md): Catalogs first-principles derivations for the $5.46$-fold vacuum recovery constant.
+* [`COSMOLOGICAL_CONSTANT_EVOLUTION.md`](COSMOLOGICAL_CONSTANT_EVOLUTION.md): Tracks the quadratic time-horizon attenuation filter $(t_p/t_{\text{age}})^2$.
+* [`EARLY_UNIVERSE.md`](EARLY_UNIVERSE.md): Direct analytical calculations modeling the non-singular, high-density primordial bounce.
+* [`NON_ROTATING_GALAXIES.md`](NON_ROTATING_GALAXIES.md): Extends the VLD framework to elliptical and pressure-supported dwarf spheroidal systems.
+* [`PHASE_LOCKING_COMPARISON.md`](PHASE_LOCKING_COMPARISON.md): Provides a side-by-side gauge comparison between VLD mechanisms and Einsteinian GR.
 
 ---
 
-## 🚀 Academic Significance
+## 📢 Version 1.0.2 Status: Formalization of Vortical Repulsion ($F_{vr}$)
 
-This update clarifies that the black hole is a stabilized engine rather than a passive collapse. By defining $F_{vr}$ as a constitutive property of the lattice, we provide a computable, non-perturbative solution to the Information Paradox, ensuring that energy-matter is regulated by finite mechanical laws rather than mathematical infinities.
+This release updates the terminology and mathematical tracking of the black hole interior from a fictitious Newtonian centrifugal analogue to an objective, emergent metric force:
+
+* **Constitutive Resistance:** $F_{vr}$ is the mechanical pressure generated by the Unitary Probability Invariance ($P_t^2 + P_\theta^2 = 1$) under ultimate compression.
+* **Topological Equilibrium:** Stabilizes the hollow core boundary at the non-singular Vortical Radius ($r_v = G_{\text{max}}M/c^2$), clearing the Black Hole Information Paradox.
 
 ---
 
-## Citation
-If you use this research, please cite it as:
+## 📜 Citation Protocol
 
-> Oh, D. H. (2026a). *A Discrete Quantum Gravity Model: Vortical Phase Transition of Light and Vacuum-Anchored Gravitational Coupling*. Zenodo. DOI: 10.5281/zenodo.20139615
+If you utilize this framework, source codes, or numerical datasets in academic research, please cite the series records identically:
 
-> Oh, D. H. (2026b). *The Vortical Radius: Resolving Black Hole Singularities through Geometric Damping of the Gravitational Constant*. Zenodo. DOI: 10.5281/zenodo.19664079
+```bibtex
+@software{oh2026foundations,
+  author       = {Dong Hoon Oh},
+  title        = {A Discrete Quantum Gravity Model: Foundations of Vortical Gravity},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20139615}
+}
+@software{oh2026radius,
+  author       = {Dong Hoon Oh},
+  title        = {The Vortical Radius: Resolving Black Hole Singularities through Geometric Damping},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19664079}
+}
+@software{oh2026continuum,
+  author       = {Dong Hoon Oh},
+  title        = {The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20379287}
+}
+```
 
-> Oh, D. H. (2026c). *The Volumetric Vortex: 3D Probabilistic Superposition and the Emergence of Light from Spacetime Flux*. Zenodo. DOI: 10.5281/zenodo.19916654
+---
 
-> Oh, D. H. (2026d). *The Emergent Dark Sector: Spacetime Lattice Interference and the Non-Particle Resolution of the 10^122 Cosmological Constant Problem (v1.0.2)*. Zenodo. DOI: 10.5281/zenodo.19859532
+## ⚖️ Intellectual Property & Licensing
 
-> Oh, D. H. (2026e). A Discrete Lattice Approach to Spacetime Phase Transitions and the Resolution of Gravitational Singularities. Zenodo. DOI: 10.5281/zenodo.20106232
+* **License:** Openly distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** legal framework.
+* **Requirement:** Any academic derivative or industrial application must feature clear attribution linking back to the relevant Zenodo DOI registry.
+* **Priority Anchor:** Intellectual priority for the discovery of the $G_{\text{max}}$ vacuum baseline and the 50% horizon suppression threshold is locked to the April 2026 publication logs on Zenodo.
 
-> Oh, D. H. (2026). The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress and Topological Fluid Dynamics (1.0.3). Zenodo. https://doi.org/10.5281/zenodo.20379287
-
-## Intellectual Property & Licensing
-
-**Copyright (c) 2026 Dong Hoon Oh.**
-
-All original theoretical frameworks in this repository, including the **Vortical Research Series**, are protected by copyright. This includes the specific numerical constants ($\eta, \gamma$), the Vortical Radius ($r_v$), and the 3D Volumetric Vortex mechanics.
-
-Licensed under **CC BY 4.0**. 
-- **Requirement**: Any use of these models in academic or commercial research must include a full citation of the relevant Zenodo DOI.
-- **Series Priority**: Priority for the discovery of the $G_{max}$ vacuum baseline and the 50% suppression limit is anchored to the April 2026 publication dates on Zenodo.
+Copyright (c) 2026 Dong Hoon Oh. All Rights Reserved.
