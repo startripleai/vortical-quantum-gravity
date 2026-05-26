@@ -13,12 +13,12 @@ VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete
 
 | Publication Component | Academic Title | Permanent Digital Anchor |
 | :--- | :--- | :--- |
-| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://shields.io)](https://doi.org) |
-| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://shields.io)](https://doi.org) |
-| **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://shields.io)](https://doi.org) |
-| **Paper 4** | The Emergent Dark Sector | [![DOI](https://shields.io)](https://doi.org) |
-| **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://shields.io)](https://doi.org) |
-| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://shields.io)](https://doi.org) |
+| **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.20139615)) |
+| **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.19664079)) |
+| **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.19916654)) |
+| **Paper 4** | The Emergent Dark Sector | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.19859532)) |
+| **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.20106232)) |
+| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://shields.io)]([https://doi.org](https://doi.org/10.5281/zenodo.20379287)) |
 
 ---
 
@@ -36,7 +36,7 @@ VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete
 Deep-dive mathematical sheets and simulation assets are partitioned across specialized modules:
 
 * [`GRAVITY.md`](GRAVITY.md): Governs covariant field transformations, Jordan-frame actions, and lattice strain calculations.
-* [`BLACKHOLE.md`](BLACKHOLE.md): Maps interior horizon kinematics, proper velocity matrices, and regularized core geometries.
+* [`BLACKHOLE.md`]([BLACKHOLE.md](https://github.com/startripleai/Vortical-Gravity-Simulation/blob/main/BLACKHOLE.md)): Maps interior horizon kinematics, proper velocity matrices, and regularized core geometries.
 * [`LOOP_CONVERGENCE.md`](LOOP_CONVERGENCE.md): Details the $k^{-5.4}$ power-law integration that eliminates ultraviolet loop divergences.
 * [`FUNDAMENTAL_CONSTANTS.md`](FUNDAMENTAL_CONSTANTS.md): Catalogs first-principles derivations for the $5.46$-fold vacuum recovery constant.
 * [`COSMOLOGICAL_CONSTANT_EVOLUTION.md`](COSMOLOGICAL_CONSTANT_EVOLUTION.md): Tracks the quadratic time-horizon attenuation filter $(t_p/t_{\text{age}})^2$.
