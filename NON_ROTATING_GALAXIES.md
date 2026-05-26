@@ -67,7 +67,7 @@ In the extreme low-density environments characteristic of dwarf spheroidal galax
 
 $$\lim_{\rho \to \text{low}} M_{\text{apparent}} = \frac{G_{max}}{G_0} M_b \equiv \mathbf{5.46320 \cdot M_b}$$
 
-Consequently, the real physical Mass-to-Light ratio $\(M/L)_{\text{real}}$ remains completely aligned with normal standard stellar population synthesis models  ( 1 $\sim$ 5, $M_{\odot}$ / $L_{\odot}$ ):
+Consequently, the real physical Mass-to-Light ratio $\(M/L)_{\text{real}}$ remains completely aligned with normal standard stellar population synthesis models ( $1 \sim 5$ , $M_{\odot}$ $\$ $L_{\odot}$ ):
 
 $$\(M/L)_{\text{apparent}} = 5.46320 \cdot \(M/L)_{\text{real}}$$
 
