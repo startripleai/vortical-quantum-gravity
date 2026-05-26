@@ -28,7 +28,7 @@ $$P_t = \sqrt{1 - (P_x^2 + P_y^2 + P_z^2)} \equiv \frac{1}{\gamma_L}$$
 To maintain a strictly gauge-invariant quantum description of gravitation, the continuous energy-momentum tensor $T_{\mu\nu}$ is replaced by a discrete, topological operator. We introduce the macroscopic **Lattice Stress Matrix ($X_{\mu\nu}$)** as the direct projection of the expectation values of closed, path-ordered holonomies circulating within the info-fluid substrate.
 
 ### 2.1 The Gauge Loop Observable via Mandelstam Functional Derivatives
-To resolve the tensor index contraction without violating the geometric covariance of the path-ordered network, we define the dynamic stress contribution using the formal machinery of Mandelstam loop space functional derivatives. Let $\mathcal{C}$ define an arbitrary closed loop configuration passing through the coordinate point $x$. The response of the parallel transport operator to an infinitesimal area deformation $\delta \sigma^{\mu\alpha}$ in the local $\mu$-$\alpha$ plane is governed by:
+To resolve the tensor index contraction without violating the geometric covariance of the path-ordered network, we define the dynamic stress contribution using the formal machinery of Mandelstam loop space functional derivatives. Let $\mathcal{C}$ define an arbitrary closed loop configuration passing through the coordinate point $x$. The response of the parallel transport operator to an infinitesimal area deformation $\delta \sigma^{\mu\alpha}$ in the local $\mu$-$ \alpha $ plane is governed by:
 
 $$\frac{\delta \hat{W}[\mathcal{C}]}{\delta \sigma^{\mu\alpha}(x)} = i F_{\mu\alpha}^a(x) T^a \hat{W}[\mathcal{C}]$$
 
