@@ -194,7 +194,7 @@ A Neutron Star represents a manifold pushed far beyond its linear equilibrium li
 
 ## 5.2 The Vortical Liberation: Transition to the Black Hole Engine
 
-When mass exceeds the Tolman-Oppenheimer-Volkoff (TOV) Limit (reinterpreted as the _Lattice Surrender Point_), the manifold can no longer sustain the 1,000-fold linear stress (p. 8). It resolves this structural burden through a Topological Phase Transition:
+When mass exceeds the Tolman-Oppenheimer-Volkoff (TOV) Limit (reinterpreted as the _Lattice Surrender Point_), the manifold can no longer sustain the 1,000-fold linear stress. It resolves this structural burden through a Topological Phase Transition:
 
 1. Stress Shedding: The manifold surrenders its linear radial resistance and converts the $10^3$ overload into Saturated Vortical Rotation ($P_\theta^2 \to 1.0$).
 2. Equilibrium Reset: Through Vortical Repulsion, the density within the resulting Torus shell resets to the natural, stable saturation point of $10^{14}\text{ kg/m}^3$ ($X = 1$).
