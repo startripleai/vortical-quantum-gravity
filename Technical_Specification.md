@@ -99,7 +99,7 @@ _Note: The underlying Probability Partitioning Logic remains perfectly invariant
 The compression stall at the $10^{-9}$ threshold marks the exact point where local inflation hits the structural ceiling of the global manifold.
 
 - The $10^{82}$ Synchronization: At the $10^{-9}$ limit, the localized resistive potential ($\eta_{\text{loc}}$) reaches parity with the total restorative potential of the entire cosmic lattice: $\eta_{\text{loc}} \approx \eta_{\text{global}} \approx 10^{82}$.
-- The Final Rebound: Beyond this point, the manifold cannot compress further without violating the Cosmic Constant (p. 4). The system resolves this tension by transitioning into Relativistic Vortical Rotation ($P_\theta^2 \to 1.0$), creating the Vortical Void and restoring the ground-state vacuum at the core.
+- The Final Rebound: Beyond this point, the manifold cannot compress further without violating the Cosmic Constant. The system resolves this tension by transitioning into Relativistic Vortical Rotation ($P_\theta^2 \to 1.0$), creating the Vortical Void and restoring the ground-state vacuum at the core.
 
 ---
 
