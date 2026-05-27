@@ -68,7 +68,7 @@ This matrix maps the synchronization and physical behaviors observed when reconc
 |---|---|---|
 |Saturation Zone|$r = 1.0 \sim 2.0$ (Torus Shell)|$r = 1.0$ (Inner Barrier)|
 |Stasis Point ($P_t^2 = 0$)|$r \approx 1.5$ (Shell Centroid)|$r = 1.0$ (Critical Transition)|
-|Physical Interpretation|Geometric: Defines the volume of the 3D donut (p. 3).|Kinetic: The limit where radial flux saturates.|
+|Physical Interpretation|Geometric: Defines the volume of the 3D donut.|Kinetic: The limit where radial flux saturates.|
 
 ## 2.2 The "Critical Stalling" Phenomenon at $r = 1.0$
 
