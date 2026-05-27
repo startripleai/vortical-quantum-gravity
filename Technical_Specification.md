@@ -171,7 +171,7 @@ The Vortical Black Hole provides the only stable mechanical solution for the Pro
 
 ## 4.3 Architectural Contrast Matrix: GR vs. VLD Torus
 
-|Feature|Static Singularity (General Relativity) (p. 7)|Vortical Torus (VLD Framework)|
+|Feature|Static Singularity (General Relativity)|Vortical Torus (VLD Framework)|
 |---|---|---|
 |Primary Energy Mode|Purely Radial Flux ($P_r$)|Saturated Rotation ($P_\theta^2$)|
 |Central Geometry|Singularity (Zero Volume)|Vortical Void (Restored Volume)|
@@ -228,8 +228,8 @@ The operational envelope of the global manifold is split cleanly across three ra
 
 |Radial Regime|Dynamic State|Manifold Status|Temporal Flux ($P_t^2$)|
 |---|---|---|---|
-|External ($r > 2$)|Infalling Flux|Structural Damping & Suppression (p. 10)|Damped ($0.183 \to 0$)|
+|External ($r > 2$)|Infalling Flux|Structural Damping & Suppression|Damped ($0.183 \to 0$)|
 |Torus Shell ($r = 1 \sim 2$)|Saturated Relativistic Rotation|Maximum Permissible Tension ($X = 1$)|Absolute Stasis ($0.0$)|
-|Vortical Void ($r < 1$)|Central Vacuum Restitution|Restored Substrate Baseline ($\eta \approx 10^{82}$) (p. 10)|Fully Recovered ($1.0$)|
+|Vortical Void ($r < 1$)|Central Vacuum Restitution|Restored Substrate Baseline ($\eta \approx 10^{82}$)|Fully Recovered ($1.0$)|
 
 ---
