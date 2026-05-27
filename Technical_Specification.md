@@ -87,7 +87,7 @@ The Yellow $P_t$ Indicator initially shifts to the right (Expansion) before exec
 
 ## 2.4 Logarithmic Scaling Model (The $10^{-9}$ Reality)
 
-In real astrophysical events, a collapsing stellar core compresses by a factor of approximately $10^{-9}$ (p. 4). To make these dynamics observable for grid analysis, the simulator maps the physical scale onto a Logarithmic Scaling Model:
+In real astrophysical events, a collapsing stellar core compresses by a factor of approximately $10^{-9}$. To make these dynamics observable for grid analysis, the simulator maps the physical scale onto a Logarithmic Scaling Model:
 
 - Actual Physical Scale: $r_{\text{collapse}} \approx 10^{-9} \times r_{\text{star}}$
 - Simulator Visual Scale: $r_{\text{collapse}} \approx 4 \times 10^{-2} \times r_{\text{star}}$ (~25x–50x visual compression)
