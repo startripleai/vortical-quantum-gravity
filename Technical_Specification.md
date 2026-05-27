@@ -105,7 +105,7 @@ The compression stall at the $10^{-9}$ threshold marks the exact point where loc
 
 ## 3. 📑 The $10\ M_{\odot}$ Limit and the $10^{-9}$ Geometric Constraint
 
-The $10\ M_{\odot}$ mass ceiling and the $10^{-9}$ compression ratio constitute the dual topological parameters of the VLD Vortical Engine (p. 4). Together, they define the operating envelope of the discrete manifold, governing the transition from stellar matter to a stabilized vortical resonance.
+The $10\ M_{\odot}$ mass ceiling and the $10^{-9}$ compression ratio constitute the dual topological parameters of the VLD Vortical Engine. Together, they define the operating envelope of the discrete manifold, governing the transition from stellar matter to a stabilized vortical resonance.
 
 ```unset
                [ Massive Progenitor ]
