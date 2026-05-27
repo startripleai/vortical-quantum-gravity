@@ -72,7 +72,8 @@ This matrix maps the synchronization and physical behaviors observed when reconc
 
 ## 2.2 The "Critical Stalling" Phenomenon at $r = 1.0$
 
-During simulation runtime, the _Yellow  $ P_t $  Indicator_ exhibits stalling and high-frequency oscillation near the $r = 1.0$ mark. This provides an exact numerical mapping of the Lattice Phase Transition:
+During simulation runtime, the _Yellow  
+$P_t$  Indicator_ exhibits stalling and high-frequency oscillation near the $r = 1.0$ mark. This provides an exact numerical mapping of the Lattice Phase Transition:
 
 1. Lattice Stress Saturation ($X \to 1$): As the energy density ($\rho$) approaches the Planck limit at $r = 1.0$, the lattice achieves terminal rigidity, prohibiting further radial compression.
 2. Conversion of Degrees of Freedom: The infalling radial velocity ($v_r$) must be redirected into rotational velocity ($v_\theta$) to satisfy the Unitary Probability Identity ($P_t^2 + P_\theta^2 = 1$).
