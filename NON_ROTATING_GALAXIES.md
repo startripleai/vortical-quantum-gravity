@@ -73,7 +73,7 @@ $\(M/L)_{\text{real}}$
 
 remains completely aligned with normal standard stellar population synthesis models 
 
-$1 \sim 5 \, \ M_{\odot} / L_{\odot}$ 
+($1 \sim 5 \, \ M_{\odot}/L_{\odot}$): 
 
 $$\(M/L)_{\text{apparent}} = 5.46320 \cdot \(M/L)_{\text{real}}$$
 
