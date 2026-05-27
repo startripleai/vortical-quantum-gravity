@@ -14,8 +14,8 @@ In the VLD framework, the 3D geometry of a galactic manifold—specifically the 
 
 A galactic disk constitutes a high-density 2D manifold embedded within a 3D vacuum baseline. This configuration induces a precipitous vertical gradient in Lattice Stress ($X$) along the z-axis:
 
-- The Mid-plane (Saturation Regime): The concentration of baryonic mass "clogs" the discrete nodes, triggering a Suppression Factor ($S \approx 4.46$) (p. 1). This effectively damps the local gravitational coupling efficiency toward the terrestrial baseline ($G_0$).
-- The Vertical Fringes (Restoration Regime): As the density ($\rho$) attenuates along the z-axis, the lattice undergoes structural relaxation (p. 1). The manifold "un-damps," and gravitational efficiency asymptotically recovers toward its unsuppressed vacuum potential ($G_{max} \approx 5.46G_0$).
+- The Mid-plane (Saturation Regime): The concentration of baryonic mass "clogs" the discrete nodes, triggering a Suppression Factor ($S \approx 4.46$). This effectively damps the local gravitational coupling efficiency toward the terrestrial baseline ($G_0$).
+- The Vertical Fringes (Restoration Regime): As the density ($\rho$) attenuates along the z-axis, the lattice undergoes structural relaxation. The manifold "un-damps," and gravitational efficiency asymptotically recovers toward its unsuppressed vacuum potential ($G_{max} \approx 5.46G_0$).
 
 ## 1.3 The Self-Regulating Feedback Loop
 
