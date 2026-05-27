@@ -37,11 +37,11 @@ $$g_{\text{VLD}}(r) = \frac{G_{eff}(r) M_b(r)}{r^2} + \Phi_{\text{screening}}(r)
 ### 2.2 Asymptotic Isolation of the Velocity Dispersion ($\sigma_r$)
 Assuming an isotropic system ($\beta \equiv 0$) for standard verification and substituting the far-field un-damped coupling ($G_{eff} \to G_{max}$), the modified Jeans equation integrates directly to yield the exact **VLD Velocity Dispersion Matrix**:
 
-$$\sigma_r^2(r) = \frac{1}{\nu(r)} \int_{r}^{\infty} \nu(r') \frac{G_{max} M_b(r')}{r'^2} \, dr'$$
+$$\sigma_r^2(r) = \frac{1}{\nu(r)} \int_{r}^{\infty} \nu(r') \frac{G_{max} M_b(r')}{r'^2} \ dr'$$
 
 Evaluating this integration in the extreme asymptotic frontier where the total enclosed baryonic mass stabilizes at its truncation limit ($M_b(r') \to M_{\text{total}}$) reveals the precise power-law profile:
 
-$$\sigma_r^2(r) \approx \frac{G_{max} M_{\text{total}}}{r \cdot \nu(r)} \int_{r}^{\infty} \nu(r') \, dr'$$
+$$\sigma_r^2(r) \approx \frac{G_{max} M_{\text{total}}}{r \cdot \nu(r)} \int_{r}^{\infty} \nu(r') \ dr'$$
 
 Because the tracer density of typical elliptical envelopes scales asymptotically as $\nu(r) \propto r^{-4}$, evaluating the quotient forces the velocity dispersion to transition from a Newtonian drop ($1/\sqrt{r}$) to an **absolute flat spatial plateau**:
 
