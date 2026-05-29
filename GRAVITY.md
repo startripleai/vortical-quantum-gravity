@@ -85,3 +85,16 @@ To project the non-local chronological path integral into the 4D field equations
 $$\Delta T_{\mu\nu}^{(\text{vacuum})} \equiv P_{EP}(a) \cdot h_{\mu\nu} = P_{EP}(a) \left( g_{\mu\nu} + \frac{1}{c^2} u_\mu u_\nu \right)$$
 
 Evaluating this under the comoving FLRW background framework cleanly isolates the components as $\Delta T^\mu_{\ \ \nu} = \text{diag}(0, P_{EP}, P_{EP}, P_{EP})$, confirming that the leapfrog expansion pressure contributes zero vacuum energy mass density ($\Delta T_{00} = 0$) to the temporal evolution channel of the first Friedmann equation, acting exclusively as an isotropic spatial stress vector driving late-time cosmic acceleration.
+
+## 5. The Chiral Origin of the Mass Spectrum: Gauge-Loop Phase Locking
+
+The transition from a massless topological info-fluid into the observable particle spectrum is governed by the running of the fine-structure coupling array $\alpha_{\text{SM}}(k)$. In the ultraviolet asymptotic freedom limit ($k \to \infty$), the coupling vanishes ($\alpha_{\text{SM}} \to 0$), rendering all fields strictly massless. As the energy flows toward the infrared scale ($k \to \Lambda_{\text{VLD}}$), the interaction stress approaches saturation ($X \sim 1$), triggering Spontaneous Chiral Symmetry Breaking via a non-zero vacuum expectation value:
+
+
+$$\langle \bar{\Psi}\Psi \rangle \equiv \frac{1}{V_{\text{node}}} \int \mathcal{D}[\mathcal{C}] \cdot \text{Tr}\left(\hat{\mathcal{W}}[\mathcal{C}]\right) \neq 0$$
+
+This structural condensation phase-locks the info-fluid flux, redirecting linear translation ($P_x^2$) into localized vortical rotation ($P_\theta^2$). The rest mass emerges as the localized energy density of these phase-locked states, split by quantized angular momentum:
+
+
+1. **Gauge Bosons ($J=1$):** Emerge from the phase-locking of invariant axial torsion along the longitudinal filament core, generating integer spin vectors.
+2. **Fermions ($J=1/2$):** Emerge from the half-integer multi-strand topological braiding geometry, satisfying a $720^\circ$ spinor rotation symmetry and generating the non-singular variable rest mass profile $m(r) \propto r^{-2.55}$.
