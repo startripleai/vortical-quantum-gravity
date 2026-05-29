@@ -9,7 +9,7 @@ In standard perturbative quantum general relativity about a smooth background, t
 
 At the one-loop level, the combinations of two standard vertices and two internal lines generate an ultraviolet divergence that flows uncontrollably as the loop momentum approaches infinity ($k \to \infty$):
 
-$$I_{\text{loop}} = \int^{\infty}_{0} d^4k \frac{k^2 \cdot k^2}{(k^2)(k^2)} = \int^{\infty}_{0} d^4k \cdot (1) \sim \int^{\infty}_{0} k^3 \, dk \to \infty$$
+$$I_{\text{loop}} = \int^{\infty}_{0} d^4k \frac{k^2 \cdot k^2}{(k^2)(k^2)} = \int^{\infty}_{0} d^4k \cdot (1) \sim \int^{\infty}_{0} k^3 \  dk \to \infty$$
 
 This $k^3$ integration divergence represents the standard non-renormalizable quartic UV catastrophe.
 
