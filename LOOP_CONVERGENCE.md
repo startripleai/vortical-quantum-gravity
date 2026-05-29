@@ -37,7 +37,7 @@ $$I_{\text{VLD}} \sim \int^{\infty}_{0} d^4k \frac{k^4}{\left( k^{3.70} \right)^
 
 To perform power-counting counting validation, we project the four-dimensional momentum differential into its radial spherical coordinate component ($d^4k = k^3 \, dk \cdot d\Omega_4$):
 
-$$I_{\text{VLD}} \sim \int^{\infty}_{0} \frac{k^3 \cdot k^4}{k^{7.40}} \, dk = \int^{\infty}_{0} \frac{k^7}{k^{7.40}} \, dk = \int^{\infty}_{0} \mathbf{k^{-0.40}} \, dk$$
+$$I_{\text{VLD}} \sim \int^{\infty}_{0} \frac{k^3 \cdot k^4}{k^{7.40}} \, dk = \int^{\infty}_{0} \frac{k^7}{k^{7.40}} \, dk = \int^{\infty}_{0} \mathbf{k^{-0.40}} \  dk$$
 
 Integrating this radial momentum expression reveals the exact primitive primitive boundary:
 
