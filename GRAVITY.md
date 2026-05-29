@@ -86,6 +86,8 @@ $$\Delta T_{\mu\nu}^{(\text{vacuum})} \equiv P_{EP}(a) \cdot h_{\mu\nu} = P_{EP}
 
 Evaluating this under the comoving FLRW background framework cleanly isolates the components as $\Delta T^\mu_{\ \ \nu} = \text{diag}(0, P_{EP}, P_{EP}, P_{EP})$, confirming that the leapfrog expansion pressure contributes zero vacuum energy mass density ($\Delta T_{00} = 0$) to the temporal evolution channel of the first Friedmann equation, acting exclusively as an isotropic spatial stress vector driving late-time cosmic acceleration.
 
+---
+
 ## 5. The Chiral Origin of the Mass Spectrum: Gauge-Loop Phase Locking
 
 The transition from a massless topological info-fluid into the observable particle spectrum is governed by the running of the fine-structure coupling array $\alpha_{\text{SM}}(k)$. In the ultraviolet asymptotic freedom limit ($k \to \infty$), the coupling vanishes ($\alpha_{\text{SM}} \to 0$), rendering all fields strictly massless. As the energy flows toward the infrared scale ($k \to \Lambda_{\text{VLD}}$), the interaction stress approaches saturation ($X \sim 1$), triggering Spontaneous Chiral Symmetry Breaking via a non-zero vacuum expectation value:
