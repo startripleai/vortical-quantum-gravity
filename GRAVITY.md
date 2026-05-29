@@ -84,4 +84,4 @@ To project the non-local chronological path integral into the 4D field equations
 
 $$\Delta T_{\mu\nu}^{(\text{vacuum})} \equiv P_{EP}(a) \cdot h_{\mu\nu} = P_{EP}(a) \left( g_{\mu\nu} + \frac{1}{c^2} u_\mu u_\nu \right)$$
 
-Evaluating this under the comoving FLRW background framework cleanly isolates the components as $\Delta T^\mu_{\,\,\nu} = \text{diag}(0, P_{EP}, P_{EP}, P_{EP})$, confirming that the leapfrog expansion pressure contributes zero vacuum energy mass density ($\Delta T_{00} = 0$) to the temporal evolution channel of the first Friedmann equation, acting exclusively as an isotropic spatial stress vector driving late-time cosmic acceleration.
+Evaluating this under the comoving FLRW background framework cleanly isolates the components as $\Delta T^\mu_{\ \ \nu} = \text{diag}(0, P_{EP}, P_{EP}, P_{EP})$, confirming that the leapfrog expansion pressure contributes zero vacuum energy mass density ($\Delta T_{00} = 0$) to the temporal evolution channel of the first Friedmann equation, acting exclusively as an isotropic spatial stress vector driving late-time cosmic acceleration.
