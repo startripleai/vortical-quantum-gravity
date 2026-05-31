@@ -18,7 +18,7 @@ VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete
 | **Paper 3** | The Volumetric Vortex (Mechanics) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19916654.svg)](https://doi.org/10.5281/zenodo.19916654) |
 | **Paper 4** | The Emergent Dark Sector | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859532.svg)](https://doi.org/10.5281/zenodo.19859532) |
 | **Paper 5** | The Vortical Lattice Dynamics (VLD) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20106232.svg)](https://doi.org/10.5281/zenodo.20106232) |
-| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20456020.svg)](https://doi.org/10.5281/zenodo.20456020) |
+| **Paper 6** | The Emergent Spacetime-Matter Continuum | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20470256.svg)](https://doi.org/10.5281/zenodo.20470256) |
 
 ---
 
@@ -80,7 +80,7 @@ If you utilize this framework, source codes, or numerical datasets in academic r
   title        = {The Emergent Spacetime-Matter Continuum: Non-Perturbative Quantum Gravity via Holonomy-Induced Lattice Stress},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20456020}
+  doi          = {10.5281/zenodo.20470256}
 }
 ```
 
