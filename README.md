@@ -44,6 +44,7 @@ Deep-dive mathematical sheets and simulation assets are partitioned across speci
 * [`EARLY_UNIVERSE.md`](EARLY_UNIVERSE.md): Direct analytical calculations modeling the non-singular, high-density primordial bounce.
 * [`NON_ROTATING_GALAXIES.md`](NON_ROTATING_GALAXIES.md): Extends the VLD framework to elliptical and pressure-supported dwarf spheroidal systems.
 * [`PHASE_LOCKING_COMPARISON.md`](PHASE_LOCKING_COMPARISON.md): Provides a side-by-side gauge comparison between VLD mechanisms and Einsteinian GR.
+* [`BLACKHOLE_DYNAMICS.md`](BLACKHOLE_DYNAMICS.md): Formulates the tripartite dynamical paradigm of black holes, differentiating polar relativistic jets, equatorial lateral reflections ($F_{vr}$), and non-singular axial wormhole ejections via the metric parity bounce.  
 
 ---
 
