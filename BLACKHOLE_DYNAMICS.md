@@ -74,6 +74,6 @@ Immediately following this saturation stall, the massive intrinsic stiffness of 
 
 $$V_{\text{coord}}(r) = \frac{B(r)}{\mathcal{E}^2} \left[ \left(\frac{m(r)}{m_0}\right)^2 + \frac{L^2}{r^2} \right]$$
 
-The central region acts as an active **Einstein-Rosen Bridge (Wormhole)**, ejecting the test particle at near-light speed out of the opposing polar aperture into a complementary spacetime sheet or separate cosmological domain. Because the driving force is entirely geometric and affine ($\partial_{\nu} \ln m(x)$), the traversing object experiences **absolute weightlessness (Zero-G)** during the entire compression-to-ejection loop.
+The central region acts as an active **Einstein-Rosen Bridge (Wormhole)**, ejecting the test particle at near-light speed out of the opposing polar aperture into a complementary spacetime sheet or separate cosmological domain. Because the driving force is entirely geometric and affine ( $\partial_{\nu} \ln m(x)$ ), the traversing object experiences **absolute weightlessness (Zero-G)** during the entire compression-to-ejection loop.
 
 $\partial_{\nu} \ln m(x)$
