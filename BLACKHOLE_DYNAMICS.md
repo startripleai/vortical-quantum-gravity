@@ -34,7 +34,7 @@ Driven by the **Nodal Bandwidth Protocol**, individual processing nodes realloca
 
 ## 🛸 2. Equatorial Lateral Reflection (Elastic Deflection)
 
-When a test particle or spacecraft enters the horizon along the equatorial plane (or any non-zero angular momentum trajectory), it encounters an absolute geometric barrier before reaching the core center.
+When a test particle enters the horizon along the equatorial plane (or any non-zero angular momentum trajectory), it encounters an absolute geometric barrier before reaching the core center.
 
 ### Mechanical Mechanics
 As the particle falls deeper into the sub-horizon zone, the extreme volume compression drives up the localized grid strain. This interaction alters the particle’s internal phase-locking parameters, causing its emergent rest mass to expand exponentially.
