@@ -156,4 +156,4 @@ Immediately following this saturation stall, the massive intrinsic stiffness of 
 
 $$V_{\text{coord}}(r) = \frac{B(r)}{\mathcal{E}^2} \left[ \left(\frac{m(r)}{m_0}\right)^2 + \frac{L^2}{r^2} \right]$$
 
-The central region acts as an active **Einstein-Rosen Bridge (Wormhole)**, ejecting the intact spacecraft at near-light speed out of the opposing polar aperture. Because the driving force is entirely geometric and affine ($\partial_{\nu} \ln m(x)$), every single atom of the vehicle and its passengers is accelerated identically. Consequently, the crew experiences **absolute weightlessness (Zero-G)** during the entire compression-to-ejection loop, guaranteeing structural safety.
+The central region acts as an active **Einstein-Rosen Bridge (Wormhole)**, ejecting the intact spacecraft at near-light speed out of the opposing polar aperture. Because the driving force is entirely geometric and affine ( $\partial_{\nu} \ln m(x)$ ), every single atom of the vehicle and its passengers is accelerated identically. Consequently, the crew experiences **absolute weightlessness (Zero-G)** during the entire compression-to-ejection loop, guaranteeing structural safety.
