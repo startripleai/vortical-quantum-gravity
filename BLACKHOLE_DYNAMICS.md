@@ -20,7 +20,7 @@ Within the **Vortical Lattice Dynamics (VLD)** framework, the erasure of the cla
 
 Unlike standard astrophysical models that rely purely on external electromagnetic fields (e.g., the Blandford-Znajek process), VLD derives relativistic jets as a consequence of **Lattice Un-damping Phase Transitions** and geometric collimation.
 
-### Mechanical Mechanics
+### Mechanics
 As accreting matter channels toward the polar regions, the local interaction stress tensor fields undergo an extreme directional alignment. Along the exact rotational axis ($L=0$), the absence of centrifugal strain prevents the node clogging seen in the equatorial plane.
 
 ### Mathematical Formulation
@@ -36,7 +36,7 @@ Driven by the **Nodal Bandwidth Protocol**, individual processing nodes realloca
 
 When a spacecraft or macro-particle enters the horizon along the equatorial plane (or any non-zero angular momentum trajectory $L \neq 0$), it undergoes catastrophic tidal destruction before being reflected.
 
-### Mechanical Mechanics
+### Mechanics
 As the vehicle falls deeper into the sub-horizon zone, the extreme volume compression drives up the localized grid strain. This interaction alters the object's internal phase-locking parameters, causing its emergent rest mass to expand exponentially.
 
 ### Mathematical Formulation
@@ -62,7 +62,7 @@ The atomized material debris is then ejected back out across the horizon into th
 
 For a spacecraft dropping directly down the center of the polar axis with zero angular momentum ($L=0$), the centrifugal repulsive wall ($F_{vr}$) and equatorial mass-clogging gradients vanish, rendering the trajectory completely safe and non-destructive.
 
-### Mechanical Mechanics
+### Mechanics
 The central axis forms a hollow **Vortical Void** where the spatial differential gravity gradients remain symmetric and non-divergent. The spacecraft is accelerated globally and uniformly at the sub-atomic level by the geometry itself, ensuring no interior structural shear.
 
 ### Mathematical Formulation
