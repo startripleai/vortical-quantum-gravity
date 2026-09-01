@@ -11,7 +11,7 @@ VLD replaces the continuous pseudo-Riemannian spacetime manifold with a discrete
 ### 📚 Core Publications Registry
 
 
-| Publication Component | Academic Title | Permanent Digital Anchor |
+| Publication Component | Academic Title | DOI |
 | :--- | :--- | :--- |
 | **Paper 1** | Foundations of Vortical Gravity | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20139615.svg)](https://doi.org/10.5281/zenodo.20139615) |
 | **Paper 2** | The Vortical Radius (Black Holes) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19664079.svg)](https://doi.org/10.5281/zenodo.19664079) |
